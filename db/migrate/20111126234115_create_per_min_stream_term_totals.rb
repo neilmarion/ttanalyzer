@@ -1,7 +1,7 @@
 class CreatePerMinStreamTermTotals < ActiveRecord::Migration
   def change
     create_table :per_min_stream_term_totals do |t|
-      t.int :total
+      t.integer :total
       t.belongs_to :per_min
 
       t.timestamps

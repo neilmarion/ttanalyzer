@@ -1,7 +1,7 @@
 class CreateTwitterTrends < ActiveRecord::Migration
   def change
     create_table :twitter_trends do |t|
-      t.int :position
+      t.integer :position
       t.belongs_to :twitter_trend_term
 
       t.timestamps

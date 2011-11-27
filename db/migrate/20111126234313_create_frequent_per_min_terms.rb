@@ -1,7 +1,7 @@
 class CreateFrequentPerMinTerms < ActiveRecord::Migration
   def change
     create_table :frequent_per_min_terms do |t|
-      t.int :frequency
+      t.integer :frequency
       t.belongs_to :term
       t.belongs_to :per_min
 
