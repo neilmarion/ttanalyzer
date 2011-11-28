@@ -8,17 +8,20 @@ task :lossy_count_tweets do
   s, e, w, c = 0 # support, error, buckets/width, current bucket
   cb = 1
 
-  puts "Enter support"
-  s = 0.000214
-  puts "Enter error"
-  e = 0.0000214
-  w = 1/e.to_f
 
-  file = File.open("tt/term/tryterms.txt")
-  file_n = File.open("tt/n/38n.txt")
-  total_terms = file_n.gets
+
+  #file = File.open("tt/term/tryterms.txt")
+  file = File.open("tt/term/#{Time.now().min-2}terms.txt")
+  file_n = File.open("tt/n/#{Time.now().min-2}n.txt")
   total_tweets = file_n.gets
+  total_terms = file_n.gets
   file_n.close
+
+  puts "Enter support"
+  s = 3/total_terms.to_i
+  puts "Enter error"
+  e = s*0.1
+  w = 1/e.to_f
 
 
   while line = file.gets
@@ -59,7 +62,7 @@ task :lossy_count_tweets do
 
   file.close
 
-  file_f = File.open("tt/frequent/#{Time.now().min}frequent.txt", 'w')
+  file_f = File.open("tt/frequent/#{Time.now().min-2}frequent.txt", 'w')
 
   #puts "RESULTS\n=======\n e   f \n"
   #create per_min

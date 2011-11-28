@@ -1,13 +1,14 @@
 
 task :parse_tweets do
-  #text_file = File.open("tt/term/#{Time.now().min}terms.txt", 'w')
-  text_file = File.open("tt/term/tryterms.txt", 'w')
-  n_file = File.open("tt/n/#{Time.now().min}n.txt", 'w')
+  text_file = File.open("tt/term/#{Time.now().min-1}terms.txt", 'w')
+  #text_file = File.open("tt/term/tryterms.txt", 'w')
+  n_file = File.open("tt/n/#{Time.now().min-1}n.txt", 'w')
 
   #file = File.open(Time.now().min.to_s+"stream.txt")
   n = 0
   o = 0
-  file = File.open("tt/json/55stream.json")
+  #file = File.open("tt/json/55stream.json")
+  file = File.open("tt/json/#{Time.now().min-1}stream.json")
     #likes = JSON.parse(f.read)
     while line = file.gets
       #puts "#{line}"

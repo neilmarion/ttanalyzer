@@ -14,7 +14,7 @@ int main(){
   tm = localtime(&now);
   printf("min = %d ", tm->tm_min);
 
-  sprintf(filename, "%s%d%s", directory, tm->tm_min-3, base);
+  sprintf(filename, "%s%d%s", directory, (tm->tm_min-3) % 60, base);
 
   fp=fopen(filename, "w"); // overwrite old json file
   //fprintf(fp, "%s", s->ptr);
