@@ -1,26 +1,31 @@
 
 task :parse_tweets do
-  text_file = File.open("tt/term/#{Time.now().min-1}terms.txt", 'w')
+  text_file = File.open("tt/term/#{(Time.now().min-1)%60}terms.txt", 'w')
   #text_file = File.open("tt/term/tryterms.txt", 'w')
-  n_file = File.open("tt/n/#{Time.now().min-1}n.txt", 'w')
+  n_file = File.open("tt/n/#{(Time.now().min-1)%60}n.txt", 'w')
 
   #file = File.open(Time.now().min.to_s+"stream.txt")
   n = 0
   o = 0
-  #file = File.open("tt/json/55stream.json")
-  file = File.open("tt/json/#{Time.now().min-1}stream.json")
+  p = 0
+  j = 0
+  file = File.open("tt/json/trystream.json")
+  #file = File.open("tt/json/#{(Time.now().min-1)%60}stream.json")
     #likes = JSON.parse(f.read)
     while line = file.gets
       #puts "#{line}"
       tweet = JSON.parse(line)
       if tweet["text"]
+        j = 0
         tweet["text"].split(" ").each do |s|
           #puts s
           u = s.gsub(/[^0-9A-Za-z]/, '')
           if u.length > 2
             text_file.print u + " "
             o = o + 1
+            j = j + 1
           end
+          p = p + ((j+1)*j)/2
         end
       text_file.print "\n"
       end
@@ -30,10 +35,11 @@ task :parse_tweets do
     end
   puts n.to_s + " total lines"
   puts o.to_s + " total terms"
+  puts p.to_s + " total substrings"
   n_file.print "#{n}\n"
   n_file.print "#{o}\n"
+  n_file.print "#{p}\n"
   
-
   file.close
   text_file.close
   n_file.close

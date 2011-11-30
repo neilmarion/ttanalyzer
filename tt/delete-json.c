@@ -9,12 +9,16 @@ int main(){
   char base[12] = "stream.json";
   char filename[15];
   char directory[10] = "json/";
+  int min = 0;
 
   now = time(0);
   tm = localtime(&now);
   printf("min = %d ", tm->tm_min);
 
-  sprintf(filename, "%s%d%s", directory, (tm->tm_min-3) % 60, base);
+  min = tm->tm_min-3;
+  if(min < 0) min = 60 + min;
+
+  sprintf(filename, "%s%d%s", directory, min, base);
 
   fp=fopen(filename, "w"); // overwrite old json file
   //fprintf(fp, "%s", s->ptr);

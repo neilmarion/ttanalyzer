@@ -1,4 +1,4 @@
 #0,5,10,15,20,25,30,35,40,45,50,55 * * * * cd /home/neilmarion/Dropbox/twitter_project/codes/twitter_stream_through_curl_and_c && ./twitter-trends-curl
 #*/1 * * * * cd /home/neilmarion/ROR/researches/ttanalyzer && /home/neilmarion/.rvm/bin/rvm ree@ttanalyzer rake parse_tweets > ~/parse_tweets.log 2>&1
 #*/1 * * * * cd /home/neilmarion/ROR/researches/ttanalyzer && /home/neilmarion/.rvm/bin/rvm ree@ttanalyzer rake lossy_count_tweets > ~/lossy_count_tweets.log 2>&1
-#*/1 * * * * cd /home/neilmarion/ROR/researches/ttanalyzer/tt && ./delete-json
+*/1 * * * * cd /home/neilmarion/ROR/researches/ttanalyzer/tt && ./delete-json
