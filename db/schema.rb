@@ -66,6 +66,7 @@ ActiveRecord::Schema.define(:version => 20111127023957) do
   create_table "twitter_trends", :force => true do |t|
     t.integer  "position"
     t.integer  "twitter_trend_term_id"
+    t.integer  "per_quart_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

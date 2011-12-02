@@ -3,6 +3,7 @@ class CreateTwitterTrends < ActiveRecord::Migration
     create_table :twitter_trends do |t|
       t.integer :position
       t.belongs_to :twitter_trend_term
+      t.belongs_to :per_quart
 
       t.timestamps
     end
