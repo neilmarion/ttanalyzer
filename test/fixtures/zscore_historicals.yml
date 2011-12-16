@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  n: 1
+  sum: 1
+  sqrt: 1.5
+  first_min: 1
+  last_min: 1
+  term: 
+
+two:
+  n: 1
+  sum: 1
+  sqrt: 1.5
+  first_min: 1
+  last_min: 1
+  term: 

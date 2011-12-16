@@ -1,0 +1,28 @@
+<table>
+  <tr id="entries_header">
+    <td></td>
+    <td colspan="2"><%= PerMin.last.created_at %></td>
+  </tr>
+  <tr id="entries_header">
+    <td></td>
+    <td>TERM</td>
+    <td>n</td>
+    <td>SUM</td>
+    <td>SQR TOT</td>
+    <td>FIRST MIN</td>
+    <td>LAST MIN</td>
+  </tr>
+  <% i = 1 %>
+  <% @terms.each do |t| %>
+  <tr class="entry">
+    <td><%= i %></td>
+    <td><%= t.term %></td>
+    <td><%= t.zscore_historical.n %></td>
+    <td><%= t.zscore_historical.sum %></td>
+    <td><%= t.zscore_historical.sqr_total %></td>
+    <td><%= t.zscore_historical.first_min %></td>
+    <td><%= t.zscore_historical.last_min %></td>
+  </tr>
+  <% i = i + 1 %>
+  <% end %>
+</table>

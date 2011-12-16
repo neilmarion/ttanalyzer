@@ -1,0 +1,20 @@
+<table>
+  <tr id="entries_header">
+    <td></td>
+    <td colspan="2"><%= PerMin.last.created_at %></td>
+  </tr>
+  <tr id="entries_header">
+    <td></td>
+    <td>TERM</td>
+    <td>CURRENT ZSCORE</td>
+  </tr>
+  <% i = 1 %>
+  <% @terms.each do |t| %>
+  <tr class="entry">
+    <td><%= i %></td>
+    <td><%= link_to t.term, zscore_path(t) %></td>
+    <td><%= t.zscore_current.zscore %></td>
+  </tr>
+  <% i = i + 1 %>
+  <% end %>
+</table>

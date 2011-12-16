@@ -1,751 +1,915 @@
-Problem   3
-AMANECER   11
-girls   6
-Justin   6
-bigger   3
-Stop   16
-talking   8
-Round   3
-someone   11
-tienen   3
-cant   17
-porque   4
-Quien   6
-Idk   4
-too   22
-Top   4
-Olivia   37
-ohh   4
-kids   3
-gtlt   5
-goes   5
-Jam   3
-bottom   3
-cuando   10
-before   3
-sempre   4
-youre   13
-sekolah   4
-loAol   3
-via   8
-Going   12
-yours   3
-been   11
-cute   6
-well   11
-jus   4
-version   3
-even   20
-ever   10
-seriously   3
-little   6
-Monday   4
-change   4
-MARRY   3
-todos   10
-house   4
-lol   71
-would   13
-favorite   3
-los   22
-Four   3
-lot   7
-things   6
-bad   10
-ganas   3
-miss   8
-though   9
-wants   4
-cool   3
-thank   7
-takes   3
-swear   3
-HER   38
-call   8
-hes   3
-jajajaja   4
-dormir   9
-Party   5
-Hey   3
-saudades   3
-pueden   3
-agora   7
-thing   12
-STUPID   3
-think   20
-amanh   3
-off   13
-mention   4
-Hope   9
-que   134
-watch   7
-China   3
-but   41
-buy   5
-Wyd   3
-point   3
-lost   5
-other   10
-pretty   5
-with   60
-quit   3
-Ive   12
-hours   4
-around   4
-worse   3
-following   4
-Trendy   3
-cont   10
-ryan   3
-school   14
-soo   5
-hahah   4
-ela   7
-wearing   3
-fight   3
-ele   9
-first   15
-TrechosDoRock   5
-john   3
-whole   3
-fuck   19
-tweets   3
-NEED   27
-nights   3
-100   4
-fin   3
-btw   3
-punch   3
-muita   3
-Half   5
-tweet   5
-wish   9
-clap   6
-Head   7
-abt   3
-Creo   3
-hear   6
-times   5
-girl   19
-come   9
-feel   11
-time   25
-yourself   4
-Britney   3
-what   38
-text   5
-menos   6
-como   23
-DNT   8
-where   11
-Having   3
-horror   3
-Olivias   3
-hands   3
-find   9
-udah   6
-after   8
-followback   3
-Brees   4
-relax   3
-semana   4
-niggas   5
-2011   3
-Boom   7
-2012   5
-www   3
-LoveAndHipHop   4
-looking   4
-get   39
-boyfriend   4
-VEM   4
-pelo   3
-Its   36
-mim   4
-ver   6
-Beat   7
-actually   5
-Smh   11
-vez   7
-seen   5
-next   6
-mierda   5
-every   4
-Beyonce   3
-Emily   7
-guys   4
-put   5
-kno   3
-bro   6
-home   7
-lmao   10
-MUCH   16
-vida   9
-ugh   3
-ahora   4
-nothing   3
-Friends   3
-forget   3
-com   27
-sino   3
-Treasury   3
-con   23
-guess   5
-gotta   10
-gross   4
-fans   4
-ugly   3
-fiquei   3
-had   19
-own   4
-most   6
-ate   3
-mundo   7
-has   16
-took   3
-Thanks   7
-Deus   6
-Hay   8
-nem   6
-was   42
-doesnt   10
-talk   5
-way   11
-New   10
-LIKE   69
-name   8
-Knew   4
-Team   4
-justinbieber   3
-Photo   13
-nunca   8
-isso   6
-look   9
-puede   5
-quem   5
-your   53
-FatosDeAlunos   3
-fazer   5
-quer   6
-Waiting   3
-mind   3
-mine   3
-sexy   8
-hair   4
-youll   8
-peace   3
-amor   7
-ainda   5
-more   14
-Being   11
-Job   3
-level   7
-until   4
-igual   3
-ask   3
-please   4
-thought   9
-Esses   3
-ass   20
-wives   10
-take   12
-here   13
-the   269
-jaaa   3
-funny   13
-sueo   3
-You   188
-siapa   3
-high   7
-tho   10
-awkward   3
-Tht   3
-shot   3
-nosotros   3
-somaya   17
-Best   19
-Happy   5
-long   7
-Show   13
-hater   4
-forever   4
-haha   23
-Wtf   4
-gonna   10
-sarapan   3
-Lil   4
-cmo   3
-sucks   3
-Wanna   15
-fall   3
-tree   3
-sama   4
-music   8
-acting   4
-same   8
-done   9
-our   6
-Dont   42
-out   34
-are   47
-week   5
-YouTube   5
-amigo   4
-pra   14
-tomorrow   8
-Which   5
-hahaha   10
-these   7
-wassup   3
-didnt   5
-boa   14
-Bread   3
-heart   3
-shoes   5
-break   5
-hoje   4
-estar   4
-again   3
-Acto   3
-boy   5
-trying   5
-others   3
-waste   3
-RelatableQuote   4
-fake   4
-gak   6
-whatever   3
-Work   5
-dia   8
-sooo   3
-vai   9
-Pass   3
-Did   11
-meh   4
-past   4
-Die   4
-gay   4
-van   7
-test   3
-Brasil   5
-meu   12
-could   6
-told   5
-place   3
-saindo   3
-diz   6
-assim   3
-bueno   3
-birthday   6
-Eff   3
-there   11
-minutes   4
-such   6
-aqu   4
-wrong   4
-original   3
-santa   3
-pues   4
-less   4
-Free   7
-guy   7
-soccer   3
-terminar   3
-tenho   6
-iphone   3
-hurt   4
-friend   4
-found   3
-seus   4
-para   29
-Necesito   4
-xbox   5
-World   3
-term   3
-followers   6
-Cada   3
-she   46
-apa   3
-CADE   3
-great   5
-step   6
-want   26
-capaz   3
-women   4
-game   9
-because   8
-mean   3
-nao   7
-ppl   5
-aqui   6
-keep   10
-tem   9
-IDIOTA   3
-ter   3
-movie   5
-whos   3
-really   27
-TENGO   7
-yang   10
-maana   14
-will   16
-imaddicted   5
-some   16
-Should   17
-rbol   3
-this   55
-start   4
-started   4
-tentar   3
-feliz   7
-Thursday   4
-good   22
-make   15
-ready   4
-Cambio   4
-pop   3
-por   29
-Life   10
-fan   3
-bitch   14
-faz   3
-White   3
-snow   3
-ima   5
-Amazing   7
-les   5
-let   8
-post   3
-solo   5
-Said   10
-football   3
-fue   3
-Gone   7
-Google   5
-fun   3
-and   129
-wear   4
-never   18
-Livin   7
-any   6
-those   9
-gente   9
-phone   7
-queria   3
-true   3
-tiempo   7
-dude   7
-shower   6
-sera   3
-mejores   4
-siga   4
-facebook   4
-Attention   4
-Awww   4
-hot   5
-butterflies   4
-how   25
-sign   3
-yall   4
-Parents   6
-YEAH   9
-people   16
-mac   3
-year   6
-mesmo   9
-mad   7
-Ill   8
-dec   3
-Video   13
-two   5
-KILL   3
-wont   8
-Man   11
-del   15
-mar   3
-mas   18
-see   13
-bieber   3
-Mau   3
-Sei   4
-may   5
-sem   3
-days   5
-makes   5
-whats   5
-ser   16
-mais   19
-donde   3
-seu   10
-Amo   5
-weeks   3
-SEX   3
-fucking   8
-SPEND   6
-sleep   4
-lmfao   5
-espero   3
-follow   14
-adalah   3
-getting   8
-prayer   7
-dream   3
-City   4
-everything   5
-shit   23
-about   29
-muy   5
-Check   6
-eyes   3
-Saints   4
-always   11
-story   4
-moment   7
-weekend   4
-back   19
-dormi   3
-calling   4
-minha   6
-Family   7
-visit   3
-mandar   3
-gold   5
-another   4
-Ala   3
-use   3
-away   3
-over   10
-stay   5
-size   3
-damn   10
-have   40
-all   45
-oomf   8
-coisa   5
-eat   4
-sometimes   6
-tan   3
-big   4
-Cyber   3
-SUNOCO   3
-crazy   4
-making   4
-yuno2700   3
-hmm   3
-Peter   3
-together   3
-sure   4
-them   17
-then   19
-lado   4
-full   3
-wasnt   5
-alguien   3
-they   33
-lady   4
-esta   6
-este   7
-mejor   4
-one   31
-nasty   3
-tus   4
-baby   5
-hits   3
-Esto   3
-nice   3
-gettin   4
-jordanknight   3
-estoy   6
-wait   4
-Nick   9
-jgn   5
-God   3
-boys   4
-homework   3
-nada   9
-gon   5
-voc   15
-pessoas   4
-got   36
-Depois   3
-cuenten   3
-college   4
-Bryant   3
-Fica   4
-still   16
-coming   7
-MSN   4
-Digital   3
-Vou   8
-casa   8
-were   17
-voy   5
-wouldnt   4
-hasta   4
-Todas   5
-lah   3
-today   9
-called   4
-las   22
-red   5
-melhor   5
-chorar   3
-essa   7
-LIVE   19
-watching   7
-believe   3
-TELL   10
-esse   3
-Omg   6
-money   7
-gift   4
-segue   3
-Twitter   18
-hate   9
-forgot   5
-amigos   3
-room   3
-anyway   3
-cara   4
-tiene   6
-spanish   3
-REAL   12
-quiere   5
-thats   20
-gives   3
-sick   3
-quiero   9
-ese   3
-amei   3
-face   6
-eso   9
-Okay   7
-nos   4
-not   41
-doing   3
-nov   3
-Now   21
-est   3
-dad   7
-Miller   3
-old   4
-know   28
-lt3   12
-dan   6
-just   67
-MomentsICanNeverForget   18
-without   3
-das   3
-dat   6
-does   8
-goin   3
-day   13
-already   4
-yea   3
-todo   7
-saw   3
-AIR   3
-say   16
-hehe   3
-yes   7
-usted   4
-LOWKEY   4
-quando   6
-play   8
-veces   3
-sua   6
-shes   7
-algo   4
-era   4
-daily   3
-sus   5
-class   5
-cuidar   3
-seguidores   3
-anything   3
-Made   6
-picture   7
-beautiful   3
-for   79
-Ahh   3
-ONLY   11
-hard   5
-night   8
-sound   3
-their   5
-bed   7
-linda   3
-kan   4
-nobody   6
-bem   3
-loca   3
-bet   3
-Download   3
-somebody   3
-FODA   5
-him   6
-sweet   3
-question   4
-his   13
-hit   9
-aint   20
-than   14
-wit   4
-that   98
-jaja   8
-maybe   5
-Something   4
-Shoot   3
-sabe   7
-nigga   12
-list   5
-una   14
-walking   3
-into   6
-better   17
-rest   3
-bout   3
-Cause   7
-motivos   3
-Super   6
-brother   4
-pero   9
-mom   10
-each   3
-Serious   3
-down   8
-open   3
-while   4
-Can   17
-who   20
-tambien   4
-car   5
-eating   3
-dreams   4
-why   17
-raw   4
-hundred   4
-msica   3
-noite   15
-dari   3
-taking   3
-love   39
-verdad   5
-from   20
-uma   13
-tambm   5
-Probably   3
-Both   7
-jajaja   6
-person   10
-Right   19
-tonight   3
-idea   6
-Christmas   10
-last   7
-give   14
-run   4
-Cuz   9
-Magazine   3
-when   37
-goodnight   3
+Nog    5
+nice    6
+Apa    5
+PriiscilaDias    4
+League    4
+nao    7
+lost    6
+con    12
+Sachin    3
+tambin    3
+wateenmeisjewil    3
+film    3
+twi    4
+Virgo affectionate    4
+think its    3
+HugoCaique92 PriiscilaDias outro    4
+the kid    3
+whole    4
+Rock    3
+Quem    3
+put    3
+shopping    4
+checked    3
+Fala    5
+shit    9
+who was factor who couldnt sing    3
+the kid who was factor    3
+casa    5
+his    9
+tonight    9
+money    6
+the ones they love    4
+ate    5
+Visit    3
+told    3
+forte    3
+era    6
+men    4
+who are again yeah remember the kid who was factor who    3
+dame    3
+must    4
+all the    8
+let    6
+ass    6
+factor who    3
+YOUTUBE    9
+Buenas    3
+FrankieCocozza sorry who are again yeah remember the kid who was factor who couldnt    3
+feliz    7
+followers    8
+WayneRooney FrankieCocozza sorry who are    3
+niet    5
+Natal    3
+yeah remember the kid who was factor who couldnt    3
+cierto    3
+EYES    3
+Honey    3
+die    11
+5th    3
+FrankieCocozza sorry who are again yeah remember    3
+mijn    5
+ones they    4
+Makeup    3
+sorry who are again yeah remember the kid who    3
+YouTube video    5
+can    22
+sama    6
+Boa    4
+Day    16
+you the    4
+the other    3
+nossa    5
+things    8
+back    19
+tanto    5
+remember the kid who was factor who couldnt    3
+one    18
+mas    18
+cant    17
+Ive    5
+remember the kid who was factor    3
+talking    4
+looks    6
+and    108
+affectionate the    4
+into    4
+own    5
+liked YouTube    5
+get    47
+Baby    5
+del    3
+ama    6
+remember the kid who was    3
+affectionate the ones they    4
+evitar    3
+fucking    5
+teamfollowback    6
+amazing    5
+knew    4
+girl    8
+bem    6
+who are again yeah remember the kid who    3
+order    4
+ask    3
+Cool    5
+pero    8
+damn    4
+they love    4
+sorry who are    3
+best    16
+wanna    7
+for you    6
+lets    5
+acho    4
+hear    3
+still    12
+Haha    21
+again yeah remember the kid who    3
+Creo    5
+you have    6
+dog    4
+Well    8
+ver    8
+pas    4
+Use    4
+COLLEGE    3
+creditvsem httptcotgrkRWOA    12
+assim    3
+Last    8
+FrankieCocozza sorry who are again yeah    3
+were    5
+aqui    9
+FrankieCocozza sorry who are    3
+yeah remember the kid    3
+Thanks    12
+sim    8
+the kid who was factor who    3
+tho    3
+please    12
+Miss you    4
+hit    3
+had    9
+2011    6
+can you    3
+sorry who are again yeah remember the kid who was    3
+But    31
+ese    3
+love    27
+tenho    4
+the kid who was factor who couldnt sing    3
+net    4
+NOIS    3
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid    3
+makasih    3
+solo    4
+pouco    4
+FrankieCocozza sorry who are again yeah remember the kid    3
+yeah remember the kid who was    3
+wanted    4
+world    4
+everything    5
+lagi    4
+are again yeah remember the kid who was factor who couldnt sing    3
+know what    3
+aja    6
+Haters    4
+sleep    4
+Aku    13
+youre    11
+yaa    3
+ser    9
+the kid who was factor who couldnt    3
+xxx    3
+Besok    4
+alguien    4
+and you    4
+Como    11
+Hey    4
+often    3
+most    5
+sing    5
+this year    3
+mis    3
+follow    24
+sentido    4
+Thanks for    6
+Every    9
+yeah remember    3
+tava    5
+HugoCaique92 PriiscilaDias    4
+Guess    3
+Who    20
+facebook    5
+was    32
+aint    6
+tak    5
+van    8
+HOE    4
+for following    3
+factor who couldnt    3
+ela    7
+essa    9
+kid    3
+there    13
+other    9
+saw    3
+feeling    6
+ben    6
+BrasilSemTVRecord    4
+changed    3
+dice    3
+time    23
+night    10
+the best    9
+its the    3
+When The    3
+contar    3
+fao    3
+factor who couldnt sing    3
+finally    3
+FrankieCocozza sorry who    3
+dar    6
+kid who    3
+club    3
+mundo    4
+spend    3
+because    5
+mal    3
+apenas    3
+HugoCaique92 PriiscilaDias outro qual    4
+the ones they    4
+falar    3
+voor    3
+jajaja    7
+hate    8
+sin    3
+who was factor    3
+cuz    3
+algum    4
+who couldnt    3
+work    14
+2012    7
+After    8
+City    5
+text    4
+life    6
+ones    6
+een    7
+quando    3
+pelo    4
+lmao    9
+Dreams    3
+minha    11
+dado    3
+cuando    3
+banho    3
+WayneRooney FrankieCocozza sorry who are again yeah remember    3
+long    3
+amiga    4
+yeah    7
+our    6
+who are again yeah    3
+kid who was factor    3
+remember the kid who was factor who    3
+Cest    3
+sua    3
+couldnt    3
+left    3
+Goes    3
+email    3
+who are again yeah remember the    3
+coisas    3
+nih    4
+color    4
+SoalCINTA    3
+Pior    3
+bij    6
+juice    3
+outro    4
+fui    3
+eten    3
+muito    15
+broke    3
+are again yeah remember the kid who was factor who couldnt    3
+mom    3
+Video    12
+game    6
+kkk    5
+mau    5
+wouldnt    4
+los    16
+tal    4
+affectionate the ones    4
+him    7
+ESTE    3
+bisa    4
+High    3
+very    4
+WITH    34
+today    13
+fall    3
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid who was factor who    3
+nem    7
+are again yeah remember the kid    3
+move    6
+dont    31
+Open    5
+porque    9
+eso    6
+how    13
+what You    4
+who are again yeah remember the kid who was factor    3
+first    10
+ento    4
+ada    6
+kind    4
+nigga    5
+thing    3
+qual    4
+maybe    3
+FrankieCocozza sorry who are again yeah remember the kid who was    3
+for Christmas    5
+whats    6
+was factor who couldnt sing    3
+her    17
+who are again yeah remember the kid who was factor who couldnt    3
+looking    3
+acho que    4
+days    3
+chuva    4
+das    3
+them    11
+waiting for    3
+down    9
+party    11
+again yeah remember    3
+who was    4
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid who was    3
+WayneRooney FrankieCocozza sorry who    3
+affectionate the ones they love    4
+factor    3
+little    3
+always    12
+around    3
+las    6
+why    15
+tweet    3
+useless    3
+morning    4
+tau    3
+Kan    5
+Gone    5
+tus sueos    3
+are again yeah remember the kid who was factor who    3
+Thats    10
+cara    5
+before changed    3
+dad    3
+that    70
+look    9
+realmente    6
+FATO FATO    3
+vamos    8
+hace    3
+pode    4
+nada    12
+Miss    10
+bitches    3
+fotos    4
+quieres    4
+Bitch    5
+crush    4
+FAIL    3
+need    16
+also    3
+much    8
+Playing    4
+cont    3
+even    7
+set    3
+are again yeah    3
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid who was factor who couldnt sing    3
+Twitter    13
+estaba    3
+saudade    4
+have the    4
+nos    4
+ook    3
+wit    4
+check    8
+make    16
+tarde    5
+fans    3
+liked    6
+remember the kid    3
+HELL    4
+FrankieCocozza sorry who are again yeah remember the    3
+where    10
+yeah remember the kid who    3
+lot    4
+here    18
+yeah remember the kid who was factor    3
+MORE FOLLOWERS    3
+FrankieCocozza    5
+buen    4
+will    17
+followfriday    3
+ini    7
+FrankieCocozza sorry who are again    3
+echt    6
+say    8
+com minha    3
+Retweet    4
+only    22
+hari    4
+you follow    4
+makin    3
+point    3
+might    7
+its    34
+need some    4
+been    12
+head    6
+Virgo affectionate the ones they love    4
+Virgo    5
+year    8
+heb    6
+Like    41
+una    12
+over    9
+FAZENDO    3
+someone    5
+gak    9
+stupid    3
+dear    5
+foi    6
+sure    9
+hes    6
+quero    7
+got    20
+kid who was factor who couldnt    3
+against    3
+affectionate    4
+TheDailyVirgo Virgo affectionate the ones    4
+you DONT    4
+mim    7
+just    35
+dat    10
+worry    3
+YOU    151
+then    6
+gift    5
+bit    3
+bad    9
+MAN    10
+know    21
+lol    43
+again    7
+live    5
+makes    4
+jaja    4
+thinking    3
+was factor    3
+waiting    4
+the ones    4
+aos    3
+naar    4
+httptcotgrkRWOA    12
+ESTO    3
+bday    4
+really    7
+alguma    3
+when    33
+nothing    5
+theres    4
+new    17
+true    5
+Free    6
+outro qual    4
+absolutely    4
+date    3
+Masih    3
+Jij    3
+You guys    3
+pro    5
+somewhere    3
+out    28
+beso    3
+Ill    6
+giving    4
+fact    3
+tweets    5
+HugoCaique92    4
+another    5
+worst    4
+seu    5
+gue    4
+have    32
+for    99
+are again yeah remember the kid who was factor    3
+but you    3
+loose    3
+music    3
+not    23
+same    3
+TheDailyVirgo Virgo    4
+sign    3
+real    4
+DIOS    4
+enough    4
+num    3
+dos    3
+sih    3
+breakfast    4
+under    4
+sorry who are again yeah remember the kid who was factor who    3
+Fuck    12
+tan    7
+yeah remember the kid who was factor who couldnt sing    3
+bueno    4
+done    13
+She    15
+todos    8
+record    4
+muy    3
+any    6
+WayneRooney FrankieCocozza sorry who are again yeah remember the    3
+que tus    4
+hoy    6
+Special    4
+ficar    3
+Heard    3
+toda    3
+tea    5
+WayneRooney FrankieCocozza sorry who are again yeah    3
+WATCH    3
+agora    4
+HOPE    4
+maar    6
+class    3
+sueos    4
+100    4
+was factor who couldnt    3
+ter    3
+God    10
+Finna    3
+sem    8
+malem2    3
+dia    7
+ones they love    4
+for the    7
+het    6
+feelin    3
+tener    3
+far    5
+buat    4
+sorry who are again yeah remember the kid who was factor who couldnt    3
+READ    3
+kalo    4
+shower    3
+everyone    3
+the most    4
+United    4
+isso    11
+having    5
+Thank    12
+Quien    5
+who are again    3
+hahah    7
+better    4
+Vai    13
+Camilademourapresa    6
+never    16
+too    27
+alone    3
+YOU LIKE    4
+amor    9
+sorry who are again    3
+FrankieCocozza sorry who are again yeah remember the kid who    3
+some    17
+Beyonce    3
+who couldnt sing    3
+already    10
+semua    3
+NAME    3
+the kid who was    3
+this    41
+WayneRooney FrankieCocozza sorry    3
+again yeah remember the kid who was factor who couldnt sing    3
+todos los    5
+following    4
+who are again yeah remember the kid    3
+MESMO    11
+take    11
+Black    3
+Bro    4
+see    17
+week    8
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid who was factor    3
+the worst    3
+bayunugroho9    3
+both    3
+funny    5
+que    120
+YOUR    43
+sorry who    3
+again yeah remember the    3
+who was factor who couldnt    3
+Lil    4
+vida    5
+LMFAO    4
+Friends    9
+What    24
+and the    4
+pessoa    3
+home    13
+tell    9
+holiday    3
+either    3
+Friday    8
+Anyone    8
+zijn    3
+the only    5
+right    13
+are again yeah remember the kid who was    3
+omg    8
+via    16
+FrankieCocozza sorry who are again yeah remember the kid who was factor    3
+old    4
+than    7
+TheDailyVirgo Virgo affectionate    4
+start    3
+the year    4
+BuenasPhrases    3
+vezes    3
+wish    7
+fazer    3
+sempre    3
+sexy    3
+liked YouTube video    4
+yeah remember the kid who was factor who    3
+remember the kid who    3
+maana    3
+Italy    3
+doesnt    3
+kid who was factor who couldnt sing    3
+FrankieCocozza sorry who are again yeah remember the kid who was factor who    3
+bought    4
+Check out    3
+wait    5
+sen    3
+cause    6
+BOUT    4
+many    4
+Dari    3
+try    6
+Stop    6
+are again yeah remember the kid who    3
+dis    5
+win    6
+are again yeah remember the    3
+guide    3
+comigo    3
+remember the kid who was factor who couldnt sing    3
+podem    3
+two    4
+you too    5
+guys    8
+comprar    4
+forever    3
+food    3
+lt3    17
+nunca    4
+Top    3
+yea    3
+who are again yeah remember the kid who was    3
+noche    3
+more than    3
+amo    8
+chance    4
+voc    21
+prefer    3
+Hoje    7
+sorry who are again yeah remember    3
+ALGO    4
+worth    5
+being    8
+face    6
+who are again yeah remember    3
+met    9
+TheDailyVirgo Virgo affectionate the    4
+all    27
+when you    7
+que voc    8
+Post    3
+GONNA    15
+kid who was    3
+ARE    36
+tryna    4
+aki    3
+toch    3
+was factor who    3
+gon    3
+ARE YOU    5
+sorry who are again yeah remember the kid who was factor who couldnt sing    3
+yall    4
+WayneRooney FrankieCocozza    3
+HAIR    3
+remember the    3
+wont    5
+dan    11
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid who    3
+more    18
+justinbieber    6
+yourself    5
+Hahaha    10
+phone    7
+stuck    3
+would    9
+pra mim    3
+couldnt sing    3
+they    22
+site    3
+ainda    6
+School    7
+are again    3
+Christmas    12
+coisa    4
+internet    3
+and get    3
+FATO    4
+photo    16
+sorry who are again yeah remember the kid who was factor    3
+pour    4
+play    4
+remember    8
+WTF    5
+the kid who    3
+bring    6
+get more    3
+PriiscilaDias outro    4
+avatar    4
+fosse    3
+2nd    3
+mais    19
+sexta    3
+about    21
+miss you too    3
+think    18
+Virgo affectionate the ones they    4
+Anonymous    3
+Jajajajaja    3
+uma    17
+again yeah remember the kid who was factor who couldnt    3
+give    9
+tiene    8
+fue    4
+Virgo affectionate the ones    4
+Pink    3
+baru    4
+sorry who are again yeah remember the    3
+biar    3
+again yeah remember the kid who was factor who    3
+niggas    5
+getting    4
+moi    4
+WayneRooney    4
+sorry    5
+end    3
+pay    3
+again yeah remember the kid    3
+off    8
+volta    4
+everyday    3
+from    11
+fica    3
+esta    8
+saber    3
+creditvsem    12
+voice    3
+menina    3
+these    9
+anything    4
+call    3
+puedo    3
+tempo    3
+ready    4
+fake    3
+ima    3
+pra    21
+hard    7
+care    5
+again yeah remember the kid who was    3
+you all    3
+WayneRooney FrankieCocozza sorry who are again    3
+igreja    3
+PEOPLE    13
+asi    4
+feel    6
+meu    18
+should    9
+actually    7
+filme    3
+said    7
+again yeah    3
+vou    11
+else    4
+Guitar    3
+though    3
+minute    3
+past    4
+see you    6
+sorry who are again yeah    3
+ever    4
+sex    5
+PriiscilaDias outro qual    4
+tudo    4
+series    3
+lembra    3
+Gotta    3
+com    26
+doe    4
+before    7
+medo    4
+now    27
+again yeah remember the kid who was factor    3
+want    15
+super    4
+aha    6
+could    9
+melhor    4
+hahahaha    8
+buena    4
+tomorrow    5
+Good    24
+house    6
+Loving    4
+way    8
+you still    3
+Right Now    4
+bana    3
+okay    5
+bien    5
+tus    8
+sou    4
+has    12
+gente    7
+are again yeah remember    3
+est    3
+Virgo affectionate the    4
+who was factor who    3
+pretty    4
+who are    3
+les    3
+dont like    3
+TheDailyVirgo    4
+your own    4
+saya    5
+looks like    4
+tambm    5
+did    6
+poco    3
+uur    3
+TheDailyVirgo Virgo affectionate the ones they love    4
+going    10
+kamu    3
+denk    3
+BIG    6
+picture    3
+Ahora    4
+dont know    3
+por    21
+kid who was factor who    3
+Soon    5
+made    5
+THE    205
+didnt    5
+not good    3
+which    3
+FrankieCocozza sorry who are again yeah remember the kid who was factor who couldnt sing    3
+girls    5
+Gracias    5
+happy    12
+yeah remember the    3
+cumpleaos    3
+vcs    3
+sorry who are again yeah remember the kid    3
+doing    3
+who are again yeah remember the kid who was factor who couldnt sing    3
+you can    4
+mucho    3
+msn    3
+novo    3
+quiero    5
+talk    7
+FrankieCocozza sorry    3
+something    8
+tem    6
+Creo que    4
+missed    4
+great    9
+buenos    3
+anak    5
+love for    3
+para    27
+through    7
+TheDailyVirgo Virgo affectionate the ones they    4
+WayneRooney FrankieCocozza sorry who are again yeah remember the kid who was factor who couldnt    3
+their    7
+Thank you    8
+mejor    5
+come    7
+Nearly    3
+late    3
+keep    3

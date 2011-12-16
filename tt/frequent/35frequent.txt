@@ -1,819 +1,917 @@
-Girls   8
-acho   5
-stop   7
-talking   10
-someone   11
-VOLTA   3
-tienen   4
-Cant   16
-porque   9
-quien   3
-idk   3
-Listening   4
-too   28
-Olivia   43
-hora   3
-ohh   4
-kids   3
-wack   3
-gtlt   6
-games   4
-goes   4
-excited   4
-yah   3
-cuando   8
-lari   3
-before   7
-youre   13
-boss   3
-via   6
-going   15
-jimjonescapo   3
-yours   3
-fast   4
-ella   3
-been   16
-cualquiera   3
-cute   5
-came   3
-Well   6
-end   5
-beijinhos   3
-Jus   4
-version   3
-YUP   4
-even   23
-watchin   3
-ever   8
-PUMP   3
-dropped   3
-domingo   3
-little   5
-laririquelme   3
-ada   3
-Monday   3
-change   4
-Singapore   4
-shade   3
-Todos   3
-deep   3
-house   9
-Lol   68
-would   17
-favorite   4
-los   20
-grown   4
-lot   7
-things   8
-bad   4
-Miss   9
-left   6
-Working   4
-though   11
-cool   10
-Everybody   4
-thank   4
-drive   3
-paper   3
-sorry   4
-takes   5
-swear   4
-her   41
-call   10
-hes   6
-weh   3
-jajajaja   4
-nih   3
-dormir   7
-party   5
-hey   11
-Agora   6
-quick   3
-thing   3
-Jesus   3
-stupid   5
-think   22
-amanh   3
-Off   15
-hope   8
-que   159
-Watch   18
-but   37
-Buy   9
-lost   5
-other   11
-pretty   3
-with   61
-foto   8
-very   4
-Ive   6
-around   7
-Soul   3
-move   5
-doe   3
-dios   4
-following   5
-grow   3
-dos   4
-cont   12
-school   9
-Son   10
-Soo   4
-Hahah   4
-ela   9
-ele   9
-sou   4
-dance   4
-first   12
-soy   3
-aww   3
-whole   3
-fuck   17
-tweets   6
-line   3
-need   36
-nights   3
-morning   4
-Asked   3
-heels   3
-lord   3
-falando   3
-hating   3
-Number   3
-tweet   5
-wish   8
-easy   6
-muito   9
-13013   4
-TeamFollowBack   4
-smoke   3
-creo   7
-times   3
-Girl   17
-merda   3
-come   16
-feel   20
-time   30
-yourself   5
-What   39
-text   10
-como   19
-Dnt   3
-where   10
-Celular   3
-Vamos   10
-Pergunta   3
-having   6
-Pedro   3
-episode   3
-find   9
-after   7
-aaa   3
-ones   3
-kimbella   5
-yesterday   3
-WWE   7
-2011   7
-2012   4
-missed   3
-lls   7
-Bestfriend   4
-LoveAndHipHop   13
-get   55
-pay   3
-boyfriend   3
-COLD   3
-HighSchoolTaughtMe   3
-playing   3
-pelo   3
-its   58
-mim   4
-mio   3
-ver   5
-SEGUINDO   4
-bring   4
-actually   6
-friday   3
-smh   13
-vez   3
-Miz   3
-seen   4
-nadie   3
-next   5
-giants   3
-every   7
-Aun   3
-emily   8
-Guys   10
-Put   8
-welcome   3
-kno   8
-since   5
-ojos   3
-home   9
-also   4
-Extrao   3
-lmao   16
-much   21
-vida   7
-deal   4
-ahora   5
-dear   3
-nothing   8
-friends   10
-forget   5
-com   10
-con   22
-2008   3
-official   3
-swag   3
-gotta   7
-Ugly   4
-bitches   5
-had   24
-Trust   5
-Kiss   5
-own   5
-Most   10
-annoying   3
-pode   3
-NEWS   5
-mundo   5
-has   15
-took   4
-Thanks   8
-deus   4
-Hay   6
-Was   38
-doesnt   8
-wat   6
-net   5
-talk   8
-way   13
-new   14
-blood   8
-like   59
-name   6
-team   5
-Photo   7
-Emilys   4
-Nunca   3
-isso   7
-look   10
-otro   3
-quem   7
-your   64
-yard   3
-youu   6
-reindeer   3
-puedo   3
-waiting   3
-mind   5
-mine   6
-sexy   8
-hair   4
-youll   5
-amor   11
-Congrats   3
-ainda   3
-more   17
-ova   5
-being   3
-Job   4
-poca   3
-caga   4
-pissed   3
-level   6
-agree   4
-awesome   3
-ask   7
-please   10
-thought   8
-medo   3
-ASS   28
-take   18
-here   8
-radio   3
-tuesday   3
-the   252
-funny   9
-turn   4
-you   178
-tho   14
-gusta   4
-awkward   5
-Somaya   19
-BEST   20
-happy   10
-long   8
-Show   7
-hater   3
-favor   3
-haha   19
-lie   3
-few   3
-gonna   17
-htt   3
-salvada   3
-looks   3
-bday   3
-wanna   16
-tree   3
-music   6
-momento   3
-nanti   3
-same   13
-Done   5
-mana   3
-our   10
-dont   51
-out   41
-are   41
-week   12
-Trey   3
-youtube   5
-ento   5
-pra   20
-tomorrow   13
-hahaha   19
-these   10
-heard   5
-Imma   4
-many   3
-vezes   4
-finally   3
-pro   4
-didnt   7
-boa   4
-heart   14
-shoes   6
-kkk   5
-Sukses   3
-lets   5
-bom   6
-kkkk   3
-hoje   5
-Again   4
-boy   4
-trying   8
-Others   3
-SISTER   3
-fake   3
-whatever   4
-reason   3
-work   8
-soon   4
-dia   9
-Sooo   4
-vai   19
-did   24
-van   3
-men   3
-test   4
-met   4
-Meu   10
-buena   3
-could   8
-Dis   6
-told   5
-sim   5
-sin   5
-diz   3
-assim   4
-FALTA   4
-sis   4
-sit   6
-bueno   5
-birthday   5
-there   14
-Bless   4
-aqu   3
-wrong   5
-lmaooo   3
-Less   3
-FREE   3
-herself   3
-tenho   3
-friend   3
-para   21
-Song   5
-world   3
-Part   3
-followers   5
-cada   7
-She   53
-apa   5
-cade   3
-great   9
-want   19
-game   11
-nah   3
-must   6
-because   12
-Mean   8
-nao   11
-ppl   6
-kid   4
-aqui   8
-Learn   3
-keep   11
-Tem   11
-ter   3
-movie   7
-pride   3
-really   23
-siempre   4
-bien   6
-tengo   7
-yang   5
-Support   4
-maana   7
-will   27
-Some   25
-voce   3
-should   12
-this   48
-focus   4
-start   10
-Special   3
-digo   3
-feliz   4
-shows   5
-Legal   3
-good   24
-make   19
-ready   5
-corazn   3
-por   30
-life   18
-selalu   3
-nahh   3
-different   3
-final   3
-tried   4
-Fan   5
-tambin   3
-bitch   28
-isnt   4
-channel   3
-faz   4
-white   8
-Snow   3
-lagi   7
-ima   12
-amazing   3
-les   3
-Let   6
-Solo   6
-said   12
-Football   3
-fue   6
-gone   7
-walk   3
-fui   5
-GOOGLE   3
-ontem   3
-sair   4
-fun   4
-and   139
-Cuelga   3
-wear   3
-Never   20
-kuliah   3
-eres   7
-any   9
-those   8
-gente   5
-phone   6
-balls   3
-above   3
-true   5
-shower   3
-sera   4
-pessoa   6
-hop   5
-holla   3
-how   38
-yall   18
-hoy   5
-yeah   11
-amin   3
-people   21
-chu   3
-wow   3
-Blog   3
-year   3
-mesmo   3
-Ill   13
-gets   3
-video   10
-Code   3
-mal   4
-wont   6
-man   10
-lmaoo   3
-del   17
-grew   3
-Hahahaha   4
-mas   9
-See   13
-doin   3
-pants   4
-mau   3
-sei   3
-may   4
-days   9
-makes   8
-whats   7
-Jim   5
-retweet   4
-ser   15
-Atleast   3
-mais   13
-alicebucketlist   10
-seu   4
-AMO   7
-sex   3
-alguem   3
-fucking   7
-punny   3
-Sleep   8
-Lmfao   3
-hell   3
-espero   4
-follow   21
-getting   12
-ltltlt   3
-everything   4
-Shit   27
-store   4
-about   32
-muy   3
-Check   6
-eyes   3
-outra   4
-always   14
-moment   6
-weekend   4
-back   21
-Minha   5
-talks   4
-gracias   6
-another   3
-use   3
-Woman   3
-away   6
-over   11
-stay   3
-Damn   14
-have   41
-all   38
-tattoo   3
-oomf   4
-tadi   3
-eat   6
-tan   3
-BIG   8
-dejar   5
-mikethemiz   3
-else   3
-Crazy   3
-sleeping   3
-making   4
-humo   3
-Almost   5
-peter   5
-cats   3
-sure   7
-them   15
-then   13
-banda   4
-dick   5
-wasnt   3
-Alguien   3
-They   22
-esta   16
-yomellamo   5
-este   6
-mejor   8
-one   37
-tus   4
-Baby   12
-Totally   3
-esto   3
-nice   7
-videos   4
-dogs   3
-fro   3
-Shake   4
-estoy   3
-wait   10
-shares   3
-pussy   4
-jgn   3
-God   9
-aku   14
-Havent   3
-boys   3
-homework   4
-nada   8
-gon   5
-voc   10
-amanha   6
-got   22
-fica   3
-still   14
-Season   6
-msn   5
-Vou   18
-black   4
-were   14
-voy   9
-hasta   4
-side   6
-untuk   3
-lah   4
-myself   5
-today   13
-las   12
-Red   5
-essa   6
-live   7
-watching   11
-album   3
-tell   7
-omg   4
-navidad   4
-practice   3
-money   4
-mujer   3
-twitter   27
-hate   15
-saben   3
-saber   3
-horrible   4
-amigos   3
-brought   3
-fuckin   3
-read   6
-BGT   4
-basta   3
-cara   4
-tiene   7
-antes   3
-care   7
-real   12
-thats   21
-artist   3
-esa   3
-feeling   5
-Quiero   6
-ese   3
-face   6
-raining   3
-okay   11
-nos   9
-NOT   50
-doing   6
-now   29
-est   3
-dad   3
-old   4
-know   40
-lt3   25
-dah   3
-just   65
-MomentsICanNeverForget   23
-without   7
-remember   5
-Does   9
-day   15
-already   5
-yea   9
-tierra   3
-persona   4
-todo   10
-ain   4
-pic   3
-air   3
-say   14
-hehe   5
-youve   5
-FunnyQuotez   4
-pin   3
-yes   8
-yet   10
-quando   4
-play   5
-veces   3
-sua   5
-comes   3
-shes   13
-harus   3
-Era   3
-class   4
-Everyone   9
-anything   3
-yesss   3
-normal   3
-ctfu   3
-try   6
-foi   4
-words   5
-PICTURE   3
-beautiful   4
-for   80
-three   3
-Ahh   4
-only   13
-hard   5
-night   11
-sound   5
-thinks   4
-fondo   3
-their   9
-bed   6
-linda   4
-Bem   4
-lindo   3
-needs   5
-PRECISO   4
-Somebody   3
-him   12
-hip   5
-question   4
-his   16
-hit   6
-claro   3
-win   5
-SIAP   3
-aint   23
-boat   4
-than   15
-wit   6
-omgthatspunny   3
-that   112
-jaja   5
-Maybe   7
-something   10
-lucky   4
-sabe   4
-nigga   7
-nuestro   3
-una   14
-theyre   4
-into   3
-happened   5
-late   4
-uno   4
-better   13
-conference   3
-bout   14
-cause   9
-Jones   4
-pero   10
-mom   5
-each   3
-saying   3
-DOWN   14
-open   4
-write   4
-while   12
-went   6
-can   31
-who   29
-car   5
-Why   17
-tanto   6
-raw   5
-msica   3
-noite   5
-meant   3
-bought   5
-taking   3
-dark   3
-love   34
-verdad   3
-from   19
-uma   11
-esos   4
-French   3
-anymore   3
-Probably   4
-BOTH   7
-person   5
-right   22
-tonight   6
-idea   3
-Christmas   14
-iya   3
-cumanNANYA   4
-last   14
-semut   3
-give   5
-cuz   6
-dra   5
-baila   5
-tryna   4
-close   4
-when   49
+isnt    5
+yah    3
+nice    7
+nao    13
+lost    4
+con    22
+yay    3
+season    5
+trying not    3
+quem    6
+Put    3
+shopping    4
+moment when postage and    3
+shit    8
+TheAwkwardTweet The awkward    3
+casa    8
+his    19
+TONIGHT    7
+money    4
+Ate    4
+visit    3
+TheAwkwardTweet The awkward moment when postage and    3
+and packaging costs more than    3
+TheAwkwardTweet The awkward moment when postage and packaging    3
+men    4
+YORKSHIRE    3
+verdad    5
+postage    3
+all the    8
+Listen    4
+let    5
+ass    6
+muito saber que voc    3
+Happy birthday    5
+youtube    6
+Shoutout    3
+followers    4
+niet    3
+voce    5
+Natal    3
+and packaging costs more than your    3
+years    5
+The awkward moment when postage and packaging costs    3
+says    5
+miss you But trying    3
+die    8
+Much More    3
+noite    4
+continua    4
+can    16
+Day    16
+nossa    5
+things    7
+back    19
+tanto    4
+Lah    3
+you But trying    3
+The awkward moment    4
+one    30
+miss you But trying not care anymore    3
+moment when postage and packaging    3
+Mas    20
+cant    15
+2012 gtgtgtgt httptco9RPHHRs4    16
+Ive    5
+The awkward moment when postage and packaging costs more than    3
+talking    6
+looks    3
+and    105
+voc pensa    3
+estoy    3
+miss you But trying not care    3
+hacer    4
+get    29
+baby    5
+Queria muito    3
+del    8
+AMA    7
+Son    5
+realitynewsru 2012 gtgtgtgt    16
+all the time    3
+fez    3
+missing    3
+fucking    8
+least    3
+amazing    5
+postage and packaging costs more than    3
+que voc pensa    3
+girl    11
+bem    8
+SayingsForGirls miss you But trying not care    3
+order    6
+kom    3
+Smh    5
+cool    7
+pero    11
+TheAwkwardTweet The awkward moment when postage    3
+damn    6
+care anymore    3
+moment    5
+best    9
+wanna    7
+for you    3
+sei    6
+hear    3
+diferente    3
+and packaging    3
+still    10
+haha    30
+The awkward moment when postage and packaging costs more than your order    3
+hair done    3
+nacional    4
+you have    3
+Sentimentos Voc diz cansei mas continua correndo    3
+feel like    3
+Well    8
+ver    14
+pas    3
+costs more than your    3
+cansei mas    4
+last    11
+were    6
+realitynewsru    16
+aqui    11
+thanks    15
+sim    6
+packaging costs more than your order    3
+tho    4
+boys    3
+please    5
+miss you    3
+iPhone    4
+Paar    3
+had    10
+but    41
+Queria muito saber que voc pensa quando    3
+love    31
+tenho    8
+mas continua    4
+trending    3
+Photoset    5
+sampe    3
+Egypt    3
+trying not care anymore    3
+credit    3
+woman    4
+diz cansei mas continua correndo atrs    4
+world    4
+EVERYTHING    7
+when postage and packaging costs more than your    3
+lagi    4
+youll    6
+plenty    3
+from the    3
+aja    3
+someone else    3
+sleep    7
+aku    14
+youre    16
+ser    8
+not care    3
+radio    3
+deserve    3
+como    11
+moment when postage and packaging costs    3
+each    3
+mis    6
+Follow    18
+every    3
+thanks for    4
+singing    3
+you and    4
+muito saber    3
+estava    4
+Guess    4
+theres always    3
+who    15
+Facebook    8
+Was    25
+aint    9
+tak    3
+and packaging costs more    3
+van    8
+like the    4
+Hoes    3
+TheAwkwardTweet The awkward moment when    3
+and packaging costs more than your order    3
+there    10
+not care anymore    3
+muito saber que voc pensa    3
+show    5
+saw    3
+animal    4
+ben    5
+Brasil    3
+todo    7
+find    4
+time    27
+NIGHT    7
+trying    4
+the best    5
+moment when postage and packaging costs more than your    3
+mama    4
+become    3
+lose    3
+chance win    3
+jus    3
+finally    8
+Bir    3
+such    3
+clean    3
+Dramadolescente    4
+Eres    4
+mundo    6
+Because    5
+mal    6
+seen    5
+goin    4
+the last    3
+voor    6
+correndo atrs    4
+jajaja    3
+Hate    7
+awkward moment when postage and    3
+cuz    3
+work    10
+2012    21
+TheAwkwardTweet The    3
+Sentimentos Voc diz    3
+after    3
+cewe    3
+awkward moment when postage and packaging costs more than your    3
+postage and packaging costs    3
+favorite    3
+life    6
+een    8
+quando    11
+pelo    4
+you But trying not care    3
+lmao    10
+muito saber que voc pensa quando    3
+MINHA    10
+Cuando    6
+Last night    4
+Review    3
+Long    12
+yeah    12
+awkward moment when postage and packaging costs more than    3
+que esta    3
+Believe    4
+certeza    3
+sua    5
+express    4
+goes    5
+Herself    3
+Beautiful    4
+Watching    4
+change    3
+bij    3
+miss you But trying not    3
+Fui    4
+Volume    3
+mad    8
+hour    5
+muito    10
+Condescending    3
+mom    3
+video    10
+take that    3
+comer    3
+kkk    3
+The awkward moment when postage and packaging costs more than your    3
+mau    4
+wat    3
+los    15
+him    8
+project    4
+este    4
+diz cansei mas continua correndo    4
+cansei mas continua correndo    4
+awkward moment when postage and packaging    3
+very    9
+seriously    3
+with    44
+today    15
+Fall    3
+matter    3
+Sentimentos Voc diz cansei mas    3
+tipo    3
+Nem    4
+move    3
+dont    29
+TheAwkwardTweet    3
+porque    12
+eso    5
+How    15
+what you    4
+TheAwkwardTweet The awkward moment when postage and packaging costs more than your    3
+FALANDO    6
+verdade    3
+First    4
+small    3
+persona    5
+ento    3
+But trying    3
+ada    9
+voy    6
+nao tem    4
+fine    3
+Nigga    7
+thing    5
+location    3
+moment when    4
+Maybe    3
+for Christmas    8
+Whats    12
+went    4
+miss you But    3
+estado    3
+her    14
+JackWilshere    3
+VancouverUnlock    3
+while    4
+looking    4
+The awkward moment when postage and packaging    3
+das    4
+Deus    5
+Them    6
+when postage and packaging costs more than    3
+SayingsForGirls miss you But trying not    3
+when postage    3
+down    9
+party    4
+you But trying not care anymore    3
+little    4
+always    17
+around    3
+las    13
+Why    16
+tweet    7
+morning    4
+falta    3
+kan    9
+hora    8
+diz cansei    4
+THATS    10
+hombre    3
+hands    4
+that    57
+Look    9
+mas continua correndo    4
+cansei mas continua correndo atrs    4
+sobre    4
+Cant wait    3
+get out    3
+VAMOS    3
+Queria muito saber que voc    3
+hace    3
+pode    4
+nada    11
+truth    3
+myself    3
+awesome    3
+Miss    6
+sweet    4
+Bitches    3
+Britney    3
+fotos    5
+Sentimentos    7
+bitch    7
+need    12
+much    14
+Playing    3
+cont    5
+Angry    3
+even    6
+Set    3
+CamilaCdemoura    7
+moment when postage and packaging costs more than    3
+full    4
+run    4
+twitter    5
+period    5
+have the    3
+nos    5
+wonder    4
+Check    10
+doin    4
+eat    5
+make    13
+Voc diz cansei mas continua correndo    4
+Tarde    6
+fans    5
+Beats    4
+passar    3
+hell    4
+segue    6
+next    11
+where    8
+lot    3
+word    5
+here    13
+FrankieCocozza    5
+continua correndo    4
+will    18
+Ini    5
+voc pensa quando    3
+TheAwkwardTweet The awkward moment when postage and packaging costs more    3
+echt    3
+moment when postage and packaging costs more    3
+Say    11
+only    12
+yang    5
+point    3
+awkward moment when postage and packaging costs more    3
+might    4
+its    29
+atrs    5
+been    11
+SayingsForGirls miss you But    3
+head    5
+awkward moment when    4
+SayingsForGirls miss you    3
+unlock    3
+does    10
+Year    6
+like    54
+brother    4
+una    12
+over    10
+claro    3
+muito saber que    3
+someone    6
+dear    3
+foi    8
+continua correndo atrs    4
+sure    4
+hes    3
+quero    11
+got    19
+realitynewsru 2012 gtgtgtgt httptco9RPHHRs4    16
+che    4
+You dont    7
+mim    3
+when postage and packaging costs more than your order    3
+just    51
+dat    6
+light    3
+love you    6
+You    156
+Then    17
+postage and packaging costs more    3
+gift    4
+get the    4
+bit    3
+Bad    7
+Man    12
+know    31
+you want    3
+bom    5
+Lol    38
+again    9
+live    8
+makes    4
+song    9
+opening    3
+when postage and    3
+volto    3
+SonCosaDenovios    3
+esto    7
+really    14
+saber que voc    3
+quero ver    3
+when    25
+nothing    8
+theres    4
+new    17
+break    3
+free    8
+TheAwkwardTweet The awkward moment    3
+tengo    4
+wasnt    3
+pro    5
+have been    5
+out    24
+Queria muito saber    3
+RomaTweetcorn    3
+Ill    13
+iya    4
+tweets    3
+pensa    4
+mano    3
+heres    4
+another    9
+worst    3
+realitynewsru 2012    16
+seu    6
+Michael    3
+Giveaway    3
+with the    3
+gue    5
+have    40
+for    85
+anymore    5
+awkward    6
+Faz    5
+music    5
+not    29
+diz cansei mas continua    4
+same    3
+diz    4
+Real    9
+Dios    6
+num    3
+making    3
+dos    4
+diz cansei mas    4
+postage and packaging costs more than your    3
+sih    3
+minutos    4
+Voc diz    4
+Ontem    4
+than your order    3
+Fuck    6
+Done    15
+she    17
+todos    5
+packaging costs    3
+muy    7
+when postage and packaging costs more    3
+finished    6
+Any    4
+fome    3
+hoy    6
+queria    5
+14FebTube    3
+ficar    4
+toda    3
+desse    3
+watch    3
+agora    9
+hope    6
+class    6
+awkward moment when postage    3
+God    9
+costs more than your order    3
+primero    3
+eles    4
+Voc diz cansei    4
+dia    9
+mas continua correndo atrs    4
+For The    7
+het    11
+they are    3
+costs more    3
+ellos    3
+kalo    3
+cos    3
+via AddThis    3
+lindo    3
+all day    3
+Everyone    5
+isso    5
+thank    10
+The guy    3
+look like    4
+Wow    4
+better    9
+estou    6
+vai    14
+CamilaDeMouraPresa    6
+never    9
+quer    5
+too    20
+hangover    3
+amor    9
+donde    3
+some    9
+tuh    3
+Navidad    4
+name    10
+Drake    3
+Download    3
+this    50
+Hay    4
+awkward moment    5
+sick    5
+following    4
+mesmo    4
+SayingsForGirls miss you But trying    3
+take    9
+Black    5
+bro    5
+one more    5
+costs more than    3
+see    17
+santa    3
+The awkward    4
+fiz    3
+both    4
+But trying not care    3
+get this    4
+funny    4
+que    135
+your    52
+birthday    6
+gtgtgtgt    16
+lil    3
+vida    7
+But trying not care anymore    3
+friends    5
+What    30
+GRAA    3
+THATS WHAT    3
+sigo    4
+and the    5
+home    12
+tell    7
+holiday    4
+Either    3
+The awkward moment when    4
+Friday    9
+more than your order    3
+saber que voc pensa quando    3
+Right    14
+amar    3
+via    11
+packaging costs more    3
+NEWS    3
+esa    4
+ele    8
+esse    7
+Sos    3
+Than    11
+start    4
+talking about    3
+final    6
+wish    7
+fazer    9
+sempre    4
+que voc pensa quando    3
+itu    5
+Office    3
+Doesnt    11
+ltlt    3
+than your    3
+Check out    3
+wait    8
+Mata    3
+cause    3
+todo mundo    3
+try    3
+stop    7
+turn    5
+win    11
+comigo    3
+Bugn    3
+www    4
+two    3
+The awkward moment when postage and packaging costs more    3
+Sentimentos Voc diz cansei    3
+person    5
+postage and    3
+guys    5
+sounds    4
+comprar    3
+Without    5
+food    4
+lt3    19
+nunca    4
+top    4
+youve    4
+door    5
+until    4
+buy    4
+Hasta    3
+more than    6
+mood    4
+smith    4
+amo    10
+chance    3
+voc    23
+hoje    6
+Sentimentos Voc diz cansei mas continua correndo atrs    3
+algo    4
+Being    5
+face    5
+met    6
+all    44
+behind    3
+when you    4
+que voc    6
+gonna    11
+ONLINE    3
+pics    4
+Ayok    3
+Tpico    3
+almost    4
+are    35
+aki    3
+Voc diz cansei mas continua    4
+deal    4
+hem    3
+are you    6
+yall    4
+hair    8
+Slow    3
+dan    10
+TheAwkwardTweet The awkward moment when postage and packaging costs more than your order    3
+more    23
+cansei mas continua    4
+yourself    3
+hahaha    9
+phone    8
+would    15
+moment when postage    3
+they    23
+ainda    3
+school    7
+Christmas    21
+you But trying not    3
+too much    3
+thought    4
+coisa    7
+Photo    9
+dong    3
+remember    3
+wtf    3
+DER    4
+just got    4
+packaging costs more than    3
+mais    26
+what the    3
+alguem    3
+TheAwkwardTweet The awkward moment when postage and packaging costs    3
+About    18
+Welcome    5
+think    9
+2012 gtgtgtgt    16
+tienes    3
+uma    12
+give    7
+favourite    3
+perfect    3
+dulu    3
+dude    4
+correndo    4
+postage and packaging costs more than your order    3
+cansei    4
+Niggas    4
+Getting    9
+waynerooney    3
+Sorry    4
+end    3
+SayingsForGirls    3
+off    14
+volta    4
+chat    3
+camera    3
+from    22
+saber que voc pensa    3
+esta    11
+saber    7
+these    11
+the next    3
+call    4
+when postage and packaging    3
+puedo    3
+yes    10
+tempo    3
+ready    5
+Sentimentos Voc diz cansei mas continua    3
+Ima    3
+sente    3
+Mean    5
+pra    21
+hard    9
+care    8
+bawa    3
+People    12
+probably    5
+started    5
+you are    7
+The awkward moment when postage    3
+trabajo    3
+asi    4
+feel    8
+meu    21
+should    9
+actually    5
+said    9
+vou    18
+costs    3
+Voc diz cansei mas continua correndo atrs    4
+else    5
+awkward moment when postage and packaging costs    3
+eating    3
+rickygervais    3
+finals    3
+ever    6
+tudo    6
+version    3
+com    23
+doe    3
+fun    4
+now    23
+saber que    3
+want    11
+Super    4
+guy    4
+pensa quando    3
+could    5
+gtgtgtgt httptco9RPHHRs4    16
+Voc diz cansei mas    4
+hahahaha    4
+Queria muito saber que    3
+Sentimentos Voc    3
+good    25
+house    4
+help    7
+when postage and packaging costs    3
+the time    3
+Boy    3
+way    7
+follow back    3
+right now    5
+quase    3
+bien    3
+tus    5
+sou    7
+away    3
+has    7
+Ladies    3
+gente    10
+est    5
+packaging costs more than your    3
+Odeio    4
+pretty    4
+bet    3
+Les    5
+trying not care    3
+Saya    3
+festa    3
+moment when postage and packaging costs more than your order    3
+depois    6
+DICK    3
+pessoas    4
+AMIGO    5
+All this    3
+jobs    3
+Did    5
+Ice    3
+going    7
+big    6
+uploaded    3
+times    4
+AddThis    3
+postage and packaging    3
+dont know    4
+por    21
+olha    3
+and packaging costs    3
+soon    4
+made    5
+httptco9RPHHRs4    16
+you But    3
+awkward moment when postage and packaging costs more than your order    3
+the    193
+didnt    6
+aan    4
+lado    4
+kkkkk    4
+The awkward moment when postage and    3
+pizza    3
+nesse    3
+gracias    8
+SayingsForGirls miss you But trying not care anymore    3
+your order    3
+happy    13
+those    4
+calor    3
+casi    3
+love that    3
+yet    3
+mee    3
+packaging    3
+doing    4
+you know    4
+you can    3
+mucho    3
+msn    5
+Rest    3
+novo    3
+quiero    3
+more than your    3
+But trying not    3
+weekend    6
+maam    3
+talk    3
+Queria muito saber que voc pensa    3
+TheAwkwardTweet The awkward moment when postage and packaging costs more than    3
+tem    13
+great    6
+movie    3
+friend    3
+para    34
+early    4
+pake    4
+their    7
+thank you    9
+dont have    4
+lovely    5
+Come    11
+late    6
+you need    3
+Keep    8
+SayingsForGirls miss    3

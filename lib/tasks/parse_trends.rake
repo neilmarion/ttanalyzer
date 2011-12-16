@@ -6,20 +6,18 @@ task :parse_trends do
 
   trends = JSON.parse(trend_file.gets)
   
-  a = PerQuart.create
+  a = PerFiveMin.create
   position = 1
 
   trends[0]["trends"].each do |x|
-    ttt = TwitterTrendTerm.find(:first, :conditions => ["term = ?", x["name"].upcase])
+    ttt = TtTerm.find(:first, :conditions => ["term = ?", x["name"].upcase])
     puts x["name"]
     if ttt == nil
-      tttnew = TwitterTrendTerm.create(:term => x["name"].upcase)
-      TwitterTrend.create(:position => position, :twitter_trend_term_id => tttnew.id, :per_quart_id => a.id )
+      tttnew = TtTerm.create(:term => x["name"].upcase)
+      Tt.create(:position => position, :tt_term_id => tttnew.id, :per_5_min_id => a.id )
     else
-      TwitterTrend.create(:position => position, :twitter_trend_term_id => ttt.id, :per_quart_id => a.id )
+      Tt.create(:position => position, :tt_term_id => ttt.id, :per_5_min_id => a.id )
     end
     position = position + 1
   end
-
-  
 end

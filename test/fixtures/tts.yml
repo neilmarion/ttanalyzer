@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  position: 1
+  tt_term: 
+  per_5_min: 
+
+two:
+  position: 1
+  tt_term: 
+  per_5_min: 

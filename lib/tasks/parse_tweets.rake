@@ -3,14 +3,19 @@ task :parse_tweets do
   text_file = File.open("tt/term/#{(Time.now().min-1)%60}terms.txt", 'w')
   #text_file = File.open("tt/term/tryterms.txt", 'w')
   n_file = File.open("tt/n/#{(Time.now().min-1)%60}n.txt", 'w')
+  file_log = File.open("tt/log/log.log", "a")
 
   #file = File.open(Time.now().min.to_s+"stream.txt")
   n = 0
   o = 0
   p = 0
   j = 0
-  file = File.open("tt/json/trystream.json")
-  #file = File.open("tt/json/#{(Time.now().min-1)%60}stream.json")
+  
+
+  min_now = (Time.now().min-1)%60
+  file_log.puts "Begin PARSING TWEETS for #{min_now}stream.json at #{Time.now}"
+  #file = File.open("tt/json/trystream.json")
+  file = File.open("tt/json/#{(Time.now().min-1)%60}stream.json")
     #likes = JSON.parse(f.read)
     while line = file.gets
       #puts "#{line}"
@@ -39,8 +44,16 @@ task :parse_tweets do
   n_file.print "#{n}\n"
   n_file.print "#{o}\n"
   n_file.print "#{p}\n"
-  
+
+  file_log.puts "  #{n} total tweets"
+  file_log.puts "  #{o} total terms"
+  file_log.puts "  #{p} total substrings"
+
   file.close
   text_file.close
   n_file.close
+
+  file_log.puts "Succesful PARSING TWEETS for #{min_now}stream.json at #{Time.now}"
+  file_log.close
+
 end
