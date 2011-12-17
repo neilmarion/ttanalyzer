@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111207041034) do
+ActiveRecord::Schema.define(:version => 20111217052646) do
 
   create_table "frequent_per_min_terms", :force => true do |t|
     t.integer  "frequency"
@@ -27,6 +27,15 @@ ActiveRecord::Schema.define(:version => 20111207041034) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "per_min_new_term_totals", :force => true do |t|
+    t.integer  "total"
+    t.integer  "per_min_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "per_min_new_term_totals", ["per_min_id"], :name => "index_per_min_new_term_totals_on_per_min_id"
 
   create_table "per_min_stream_term_totals", :force => true do |t|
     t.integer  "total"
@@ -56,6 +65,16 @@ ActiveRecord::Schema.define(:version => 20111207041034) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "tt_scores", :force => true do |t|
+    t.integer  "score"
+    t.integer  "minutes"
+    t.integer  "tt_term_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "tt_scores", ["tt_term_id"], :name => "index_tt_scores_on_tt_term_id"
 
   create_table "tt_terms", :force => true do |t|
     t.string   "term"

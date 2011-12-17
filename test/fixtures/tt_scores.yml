@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  score: 1
+  minutes: 1
+  tt_term: 
+
+two:
+  score: 1
+  minutes: 1
+  tt_term: 

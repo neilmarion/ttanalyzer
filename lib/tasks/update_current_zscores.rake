@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'config/environment'
+#require 'config/environment'
 
 task :update_current_zscores do
   last_min = PerMin.last.id

@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'config/environment'
+#require 'config/environment'
 
 task :lossy_count_tweets do
 
@@ -124,6 +124,8 @@ task :lossy_count_tweets do
 
   #term = Term.find(:first, :conditions => ["term = ?", t[x]["t"].upcase ])
 
+  new_terms = 0
+
   t.keys.each do |x|
     term = Term.find(:first, :conditions => ["term = ?", t[x]["t"].upcase ])
     if term == nil # term not yet in record
@@ -132,6 +134,7 @@ task :lossy_count_tweets do
       #create its historical zscore data, though no zscores recorded yet
       ZscoreHistorical.create(:n => 1, :sum => t[x]["f"].to_i, :sqr_total => (t[x]["f"].to_i)**2, :first_min => a.id, :last_min => a.id, :term_id => ti.id)
       ZscoreCurrent.create(:term_id => ti.id) # null zscore
+      new_terms = new_terms + 1
     else # term already has began its life in the database :P
       FrequentPerMinTerm.create(:frequency => t[x]["f"].to_i, :term_id => term.id, :per_min_id => a.id )
       plus_n = a.id - term.zscore_historical.last_min - 1
@@ -161,6 +164,8 @@ task :lossy_count_tweets do
 
     file_f.puts "#{t[x]["t"]}   #{t[x]["f"]}"
   end
+
+  PerMinNewTermTotal.create(:total => new_terms, :per_min_id => a.id)
 
   file_f.close
 
