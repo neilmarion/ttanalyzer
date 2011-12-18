@@ -1,12 +1,13 @@
 require 'rubygems'
-#require 'config/environment'
+require 'config/environment'
 
 task :parse_trends do
   trend_file = File.open("tt/trend/current_trends.json")
 
   trends = JSON.parse(trend_file.gets)
   
-  a = PerFiveMin.create
+  per_hour = PerHour.last
+  a = PerFiveMin.create(:per_hour_id => per_hour.id)
   position = 1
 
   trends[0]["trends"].each do |x|
@@ -14,10 +15,10 @@ task :parse_trends do
     puts x["name"]
     if ttt == nil
       tttnew = TtTerm.create(:term => x["name"].upcase)
-      Tt.create(:position => position, :tt_term_id => tttnew.id, :per_5_min_id => a.id )
-      TtScore.create(:score => position, :minutes => 5, :tt_term_id => tttnew.id)
+      Tt.create(:position => position, :tt_term_id => tttnew.id, :per_five_min_id => a.id )
+      TtScore.create(:score => (11 - position), :minutes => 5, :tt_term_id => tttnew.id)
     else
-      Tt.create(:position => position, :tt_term_id => ttt.id, :per_5_min_id => a.id )
+      Tt.create(:position => position, :tt_term_id => ttt.id, :per_five_min_id => a.id )
       tt_score = TtScore.find(ttt.id)
       tt_score.score = tt_score.score + position
       tt_score.minutes = tt_score.minutes + 5

@@ -1,4 +1,9 @@
 Ttanalyzer::Application.routes.draw do
+
+
+  get "top_trend/index"
+=begin
+
   get "zscores/show"
 
   get "zscore_currents/index"
@@ -10,6 +15,7 @@ Ttanalyzer::Application.routes.draw do
   get "zscores/index"
 
   get "home/index"
+=end
 
   root :to => "home#index"
 
@@ -74,6 +80,16 @@ Ttanalyzer::Application.routes.draw do
   resources :zscore_currents
   resources :zscore_historicals
   resources :tts
+  resource :top_trends
 
+=begin
+  namespace :top_trends do
+    resource :top_trends, :controller => :top_trends do
+      collection do
+        get 'top_trends'
+      end
+    end
+  end
+=end
 
 end

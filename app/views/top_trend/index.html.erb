@@ -1,0 +1,31 @@
+<table>
+  <tr id="entries_header">
+    <td></td>
+    <td colspan="2"><b>MY TRENDING TOPICS</b></td>
+    <td></td>
+    <td colspan="2"><b>TWITTER TRENDING TOPICS</b></td>
+    <td></td>
+  </tr>
+  <tr id="entries_header">
+    <td></td>
+    <td>TERM</td>
+    <td>CURRENT ZSCORE</td>
+    <td></td>
+    <td>TERM</td>
+    <td>CURRENT ZSCORE</td>
+    <td></td>
+  </tr>
+  <% i = 1 %>
+  <% @top_20.each do |t_20| %>
+  <tr class="entry">
+    <td><%= i %></td>
+    <td><%= Term.find(t_20.term_id).term %></td>
+    <td><%= t_20.zscore %></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td><%= i %></td>
+  </tr>
+  <% i = i + 1 %>
+  <% end %>
+</table>

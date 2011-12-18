@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111217052646) do
+ActiveRecord::Schema.define(:version => 20111218163929) do
 
   create_table "frequent_per_min_terms", :force => true do |t|
     t.integer  "frequency"
@@ -24,6 +24,12 @@ ActiveRecord::Schema.define(:version => 20111217052646) do
   add_index "frequent_per_min_terms", ["term_id"], :name => "index_frequent_per_min_terms_on_term_id"
 
   create_table "per_five_mins", :force => true do |t|
+    t.integer  "per_hour_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "per_hours", :force => true do |t|
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -56,6 +62,8 @@ ActiveRecord::Schema.define(:version => 20111217052646) do
   add_index "per_min_stream_tweet_totals", ["per_min_id"], :name => "index_per_min_stream_tweet_totals_on_per_min_id"
 
   create_table "per_mins", :force => true do |t|
+    t.integer  "per_hour_id"
+    t.integer  "per_five_min_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -85,13 +93,35 @@ ActiveRecord::Schema.define(:version => 20111217052646) do
   create_table "tts", :force => true do |t|
     t.integer  "position"
     t.integer  "tt_term_id"
-    t.integer  "per_5_min_id"
+    t.integer  "per_five_min_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  add_index "tts", ["per_5_min_id"], :name => "index_tts_on_per_5_min_id"
+  add_index "tts", ["per_five_min_id"], :name => "index_tts_on_per_five_min_id"
   add_index "tts", ["tt_term_id"], :name => "index_tts_on_tt_term_id"
+
+  create_table "zscore_ave_per_five_mins", :force => true do |t|
+    t.float    "zscore_sum"
+    t.integer  "min"
+    t.integer  "per_five_min_id"
+    t.integer  "term_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "zscore_ave_per_five_mins", ["per_five_min_id"], :name => "index_zscore_ave_per_five_mins_on_per_five_min_id"
+
+  create_table "zscore_ave_per_hours", :force => true do |t|
+    t.float    "zscore_sum"
+    t.integer  "min"
+    t.integer  "per_hour_id"
+    t.integer  "term_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "zscore_ave_per_hours", ["per_hour_id"], :name => "index_zscore_ave_per_hours_on_per_hour_id"
 
   create_table "zscore_currents", :force => true do |t|
     t.float    "zscore"

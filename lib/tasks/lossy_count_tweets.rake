@@ -1,5 +1,5 @@
 require 'rubygems'
-#require 'config/environment'
+require 'config/environment'
 
 task :lossy_count_tweets do
 
@@ -118,7 +118,9 @@ task :lossy_count_tweets do
 
   #puts "RESULTS\n=======\n e   f \n"
   #create per_min
-  a = PerMin.create
+  per_hour = PerHour.last
+  per_five_min = PerFiveMin.last
+  a = PerMin.create(:per_hour_id => per_hour.id, :per_five_min_id => per_five_min.id)
   PerMinStreamTweetTotal.create(:total => total_tweets.to_i, :per_min_id => a.id)
   PerMinStreamTermTotal.create(:total => total_terms.to_i, :per_min_id => a.id)
 
@@ -134,6 +136,14 @@ task :lossy_count_tweets do
       #create its historical zscore data, though no zscores recorded yet
       ZscoreHistorical.create(:n => 1, :sum => t[x]["f"].to_i, :sqr_total => (t[x]["f"].to_i)**2, :first_min => a.id, :last_min => a.id, :term_id => ti.id)
       ZscoreCurrent.create(:term_id => ti.id) # null zscore
+
+
+
+      #create per hour zscore ave
+      #ZscoreAvePerHour.create(:min => 0, :term_id => ti.id, :per_hour_id => per_hour.id)
+      #create per 5 min zscore ave
+      #ZscoreAvePerFiveMin.create(:min => 0, :term_id => ti.id, :per_five_min_id => per_five_min.id)
+
       new_terms = new_terms + 1
     else # term already has began its life in the database :P
       FrequentPerMinTerm.create(:frequency => t[x]["f"].to_i, :term_id => term.id, :per_min_id => a.id )
@@ -141,6 +151,29 @@ task :lossy_count_tweets do
       begin
         zscore = (t[x]["f"].to_f - term.zscore_historical.ave(plus_n))/term.zscore_historical.std(plus_n)
         Zscore.create(:zscore => zscore, :per_min_id => a.id, :term_id => term.id)
+        #per_hour = PerHour.last
+        #per_five_min = PerFiveMin.last
+
+        #update per hour zscore ave
+        zsaph = ZscoreAvePerHour.find_zscore_ave_per_hour(per_hour.id, term.id).first
+        if zsaph.nil?
+          ZscoreAvePerHour.create(:zscore_sum => zscore, :min => 1, :term_id => term.id, :per_hour_id => per_hour.id)
+        else
+          zsaph.zscore_sum = zsaph.zscore_sum.to_f + zscore
+          zsaph.min = zsaph.min + 1
+          zsaph.save
+        end
+
+        #create per 5 min zscore ave
+        zsap5m = ZscoreAvePerFiveMin.find_zscore_ave_per_five_min(per_five_min.id, term.id).first
+        if zsap5m.nil?
+          ZscoreAvePerFiveMin.create(:zscore_sum => zscore, :min => 1, :term_id => term.id, :per_five_min_id => per_five_min.id)
+        else
+          zsap5m.zscore_sum = zsap5m.zscore_sum.to_f + zscore
+          zsap5m.min = zsap5m.min + 1
+          zsap5m.save
+        end
+
       rescue Exception=>e
         #error. Standard deviation might be out of domain
         puts e.to_s

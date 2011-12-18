@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  zscore_sum: 1.5
+  min: 1
+  per_5_min: 
+
+two:
+  zscore_sum: 1.5
+  min: 1
+  per_5_min: 
