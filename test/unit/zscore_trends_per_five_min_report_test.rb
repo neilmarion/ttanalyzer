@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class ZscoreAvePerHourTest < ActiveSupport::TestCase
+class ZscoreTrendsPerFiveMinReportTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

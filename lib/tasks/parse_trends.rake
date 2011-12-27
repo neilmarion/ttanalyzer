@@ -20,7 +20,7 @@ task :parse_trends do
     else
       Tt.create(:position => position, :tt_term_id => ttt.id, :per_five_min_id => a.id )
       tt_score = TtScore.find(ttt.id)
-      tt_score.score = tt_score.score + position
+      tt_score.score = tt_score.score + (11 - position)
       tt_score.minutes = tt_score.minutes + 5
       tt_score.save
     end

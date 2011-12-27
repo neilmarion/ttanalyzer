@@ -3,6 +3,7 @@ class Term < ActiveRecord::Base
   has_many :zscores
   has_many :zscore_ave_per_5_min
   has_many :zscore_ave_per_hour
+  has_many :zscore_trends_per_five_min_report
   has_one :zscore_historical
   has_one :zscore_current
 

@@ -40,3 +40,4 @@ puts "ave: " + ave.to_s
 puts "variance: " + variance.to_s
 
 puts "zscore: " + zscore.to_s
+puts "zscore / duration: " + (zscore.to_s/a.length).to_f.to_s
