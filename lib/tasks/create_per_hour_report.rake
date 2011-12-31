@@ -5,6 +5,7 @@ require 'config/environment'
 task :create_per_hour_report do
   #per_hour = PerHour.last
   per_hour = PerHour.all.reverse[1]
+  #per_hour = PerHour.all[1]
   #PerHour.create
   
 
@@ -19,8 +20,11 @@ task :create_per_hour_report do
 #SELECT tt.term FROM tts t LEFT JOIN tt_terms tt ON t.tt_term_id = tt.id WHERE per_five_min_id = 2
 
   
+  reports_path = "/home/neilmarion/Dropbox/twitter_project/reports/"
 
-  FasterCSV.open("public/reports/#{per_hour.created_at.to_s.gsub(' ', '_')}.csv", "w") do |csv|
+
+  FasterCSV.open("#{reports_path}#{per_hour.created_at.to_s.gsub(' ', '_')}.csv", "w") do |csv|
+  #FasterCSV.open("public/reports/per_hour.csv", "w") do |csv|
     # create terms header
     #ZscoreAvePerHour.find_zscore_ave_per_hour(per_hour.id)
     #zsaph = ZscoreAvePerHour.find_zscore_ave_per_hour(4)
@@ -149,7 +153,6 @@ task :create_per_hour_report do
       b = b + 1
     end
 
-
     csv << " "
     csv << "SCORES (TWITTER TRENDS)"
     csv << [" ", "TERM", "SCORE", "MINUTES"]
@@ -165,9 +168,34 @@ task :create_per_hour_report do
       b = b + 1
     end
 
+
+
+
+    csv << " "
+    csv << " "
+    csv << " "
+    csv << ["STREAM TOTALS PER MINUTE"]
+    csv << [" ", "Tweet Totals", "Term Totals", "New Term Totals"]
+    b = 1
+    per_hour.per_min.each do |x|
+      a = Array.new
+      a << x.created_at.to_s(:db) + "   " + b.to_s
+      begin      
+        a << PerMinStreamTweetTotal.find(:first, :conditions => [ "per_min_id = ? ", x.id ]).total
+        a << PerMinStreamTermTotal.find(:first, :conditions => [ "per_min_id = ? ", x.id ]).total
+        a << PerMinNewTermTotal.find(:first, :conditions => [ "per_min_id = ? ", x.id ]).total
+      rescue
+
+      end
+      csv << a
+      b = b + 1
+    end
+
   end
 
   ZscoreTrendsPerFiveMinReport.destroy_all
+  TtScore.destroy_all
+
   
 end
 

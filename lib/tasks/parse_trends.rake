@@ -20,9 +20,14 @@ task :parse_trends do
     else
       Tt.create(:position => position, :tt_term_id => ttt.id, :per_five_min_id => a.id )
       tt_score = TtScore.find(ttt.id)
-      tt_score.score = tt_score.score + (11 - position)
-      tt_score.minutes = tt_score.minutes + 5
-      tt_score.save
+      if tt_score == nil
+        TtScore.create(:score => (11 - position), :minutes => 5, :tt_term_id => ttt.id)
+      else
+        tt_score.score = tt_score.score + (11 - position)
+        tt_score.minutes = tt_score.minutes + 5
+        tt_score.save
+      end
+
     end
     position = position + 1
   end
