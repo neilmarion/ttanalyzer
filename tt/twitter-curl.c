@@ -82,7 +82,7 @@ int main(void)
 
     curl_easy_setopt(curl, CURLOPT_URL, "https://stream.twitter.com/1/statuses/sample.json");
     //curl_easy_setopt(curl, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
-    curl_easy_setopt(curl, CURLOPT_USERPWD, "neilmarion:passwordpassword");
+    curl_easy_setopt(curl, CURLOPT_USERPWD, "neilmarion:ppp");
     curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writefunc);
     curl_easy_setopt(curl, CURLOPT_WRITEDATA, &s);
     res = curl_easy_perform(curl);
