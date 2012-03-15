@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'fastercsv'
-require 'config/environment'
+#require 'config/environment'
 
 task :create_per_hour_report do
   #per_hour = PerHour.last
@@ -20,7 +20,7 @@ task :create_per_hour_report do
 #SELECT tt.term FROM tts t LEFT JOIN tt_terms tt ON t.tt_term_id = tt.id WHERE per_five_min_id = 2
 
   
-  reports_path = "/home/neilmarion/Dropbox/twitter_project/reports/"
+  reports_path = "$HOME/Dropbox/twitter_project/reports/"
 
 
   FasterCSV.open("#{reports_path}#{per_hour.created_at.to_s.gsub(' ', '_')}.csv", "w") do |csv|

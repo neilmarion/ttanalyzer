@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'config/environment'
+#require 'config/environment'
 
 task :create_per_hour do
   a = PerHour.create

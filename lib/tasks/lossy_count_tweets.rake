@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'config/environment'
+#require 'config/environment'
 
 task :lossy_count_tweets do
 
@@ -167,6 +167,8 @@ task :lossy_count_tweets do
 #this might not be needed
       begin
         zscore = term.zscore_historical.zscore(t[x]["f"].to_f, plus_n.to_f, term.zscore_historical.last_min - term.zscore_historical.first_min)
+        #added
+        zscore = !TtTerm.find(:first, :conditions => ["term = ?", term.term]).nil? ? zscore * 10 : zscore
         #zscore = (t[x]["f"].to_f - term.zscore_historical.ave(plus_n))/term.zscore_historical.std(plus_n)
         Zscore.create(:zscore => zscore, :per_min_id => a.id, :term_id => term.id)
         #per_hour = PerHour.last

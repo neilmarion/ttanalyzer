@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'fastercsv'
-require 'config/environment'
+#require 'config/environment'
 
 task :create_reports_per_min_per_hour do
   per_hour = PerHour.find(4)

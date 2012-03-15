@@ -1,4 +1,4 @@
-filenames = ["create_per_five_min.rake", "create_per_hour.rake", "lossy_count_tweets.rake", "parse_trends.rake", "update_current_zscores.rake", "create_reports_per_min_per_hour.rake", "empty_zscore_sum_per_five_min.rake", "create_per_hour_report.rake"]
+filenames = ["create_per_five_min.rake", "create_per_hour.rake", "lossy_count_tweets.rake", "parse_trends.rake", "update_current_zscores.rake", "create_reports_per_min_per_hour.rake", "empty_zscore_sum_per_five_min.rake", "create_per_hour_report.rake", "results.rake"]
 
 filenames.each do |f|
   text_file = File.open(f, 'r')

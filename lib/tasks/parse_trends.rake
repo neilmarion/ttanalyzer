@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'config/environment'
+#require 'config/environment'
 
 task :parse_trends do
   trend_file = File.open("tt/trend/current_trends.json")
@@ -11,10 +11,10 @@ task :parse_trends do
   position = 1
 
   trends[0]["trends"].each do |x|
-    ttt = TtTerm.find(:first, :conditions => ["term = ?", x["name"].upcase])
+    ttt = TtTerm.find(:first, :conditions => ["term = ?", x["name"].upcase.gsub(/[^0-9A-Za-z]/, '')])
     puts x["name"]
     if ttt == nil
-      tttnew = TtTerm.create(:term => x["name"].upcase)
+      tttnew = TtTerm.create(:term => x["name"].upcase.gsub(/[^0-9A-Za-z]/, ''))
       Tt.create(:position => position, :tt_term_id => tttnew.id, :per_five_min_id => a.id )
       TtScore.create(:score => (11 - position), :minutes => 5, :tt_term_id => tttnew.id)
     else
