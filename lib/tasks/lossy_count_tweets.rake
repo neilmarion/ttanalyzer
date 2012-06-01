@@ -1,5 +1,5 @@
 require 'rubygems'
-#require 'config/environment'
+require 'config/environment'
 
 task :lossy_count_tweets do
 

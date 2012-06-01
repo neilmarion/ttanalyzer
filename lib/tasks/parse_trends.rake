@@ -1,5 +1,5 @@
 require 'rubygems'
-#require 'config/environment'
+require 'config/environment'
 
 task :parse_trends do
   trend_file = File.open("tt/trend/current_trends.json")

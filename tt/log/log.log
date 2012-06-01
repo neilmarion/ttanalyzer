@@ -1,0 +1,204 @@
+Begin PARSING TWEETS for 50stream.json at Sat Mar 24 22:51:07 +0800 2012
+  200 total tweets
+  916 total terms
+  36730 total substrings
+Succesful PARSING TWEETS for 50stream.json at Sat Mar 24 22:51:08 +0800 2012
+Begin PARSING TWEETS for 51stream.json at Sat Mar 24 22:52:04 +0800 2012
+  762 total tweets
+  4239 total terms
+  167553 total substrings
+Succesful PARSING TWEETS for 51stream.json at Sat Mar 24 22:52:06 +0800 2012
+Begin LOSSY COUNTING for 50terms.txt at Sat Mar 24 22:52:06 +0800 2012
+Succesful LOSSY COUNTING for 50terms.txt at Sat Mar 24 22:52:08 +0800 2012
+Begin PARSING TWEETS for 52stream.json at Sat Mar 24 22:53:04 +0800 2012
+  884 total tweets
+  4347 total terms
+  172905 total substrings
+Succesful PARSING TWEETS for 52stream.json at Sat Mar 24 22:53:05 +0800 2012
+Begin LOSSY COUNTING for 51terms.txt at Sat Mar 24 22:53:05 +0800 2012
+Succesful LOSSY COUNTING for 51terms.txt at Sat Mar 24 22:53:12 +0800 2012
+Begin PARSING TWEETS for 53stream.json at Sat Mar 24 22:54:04 +0800 2012
+  1067 total tweets
+  5432 total terms
+  222751 total substrings
+Succesful PARSING TWEETS for 53stream.json at Sat Mar 24 22:54:05 +0800 2012
+Begin LOSSY COUNTING for 52terms.txt at Sat Mar 24 22:54:06 +0800 2012
+Succesful LOSSY COUNTING for 52terms.txt at Sat Mar 24 22:54:11 +0800 2012
+Begin PARSING TWEETS for 54stream.json at Sat Mar 24 22:55:06 +0800 2012
+  1234 total tweets
+  5296 total terms
+  205144 total substrings
+Succesful PARSING TWEETS for 54stream.json at Sat Mar 24 22:55:08 +0800 2012
+Begin LOSSY COUNTING for 53terms.txt at Sat Mar 24 22:55:07 +0800 2012
+Succesful LOSSY COUNTING for 53terms.txt at Sat Mar 24 22:55:15 +0800 2012
+Begin PARSING TWEETS for 55stream.json at Sat Mar 24 22:56:06 +0800 2012
+  1002 total tweets
+  5410 total terms
+  197621 total substrings
+Succesful PARSING TWEETS for 55stream.json at Sat Mar 24 22:56:07 +0800 2012
+Begin LOSSY COUNTING for 54terms.txt at Sat Mar 24 22:56:07 +0800 2012
+Succesful LOSSY COUNTING for 54terms.txt at Sat Mar 24 22:56:15 +0800 2012
+Begin PARSING TWEETS for 56stream.json at Sat Mar 24 22:57:05 +0800 2012
+  1398 total tweets
+  7750 total terms
+  306588 total substrings
+Succesful PARSING TWEETS for 56stream.json at Sat Mar 24 22:57:06 +0800 2012
+Begin LOSSY COUNTING for 55terms.txt at Sat Mar 24 22:57:06 +0800 2012
+Succesful LOSSY COUNTING for 55terms.txt at Sat Mar 24 22:57:15 +0800 2012
+Begin PARSING TWEETS for 57stream.json at Sat Mar 24 22:58:05 +0800 2012
+  1370 total tweets
+  7040 total terms
+  270953 total substrings
+Succesful PARSING TWEETS for 57stream.json at Sat Mar 24 22:58:06 +0800 2012
+Begin LOSSY COUNTING for 56terms.txt at Sat Mar 24 22:58:06 +0800 2012
+Succesful LOSSY COUNTING for 56terms.txt at Sat Mar 24 22:58:21 +0800 2012
+Begin PARSING TWEETS for 58stream.json at Sat Mar 24 22:59:05 +0800 2012
+  1414 total tweets
+  7229 total terms
+  283539 total substrings
+Succesful PARSING TWEETS for 58stream.json at Sat Mar 24 22:59:06 +0800 2012
+Begin LOSSY COUNTING for 57terms.txt at Sat Mar 24 22:59:06 +0800 2012
+Succesful LOSSY COUNTING for 57terms.txt at Sat Mar 24 22:59:19 +0800 2012
+Begin PARSING TWEETS for 59stream.json at Sat Mar 24 23:00:07 +0800 2012
+  1290 total tweets
+  6078 total terms
+  250142 total substrings
+Succesful PARSING TWEETS for 59stream.json at Sat Mar 24 23:00:09 +0800 2012
+Begin LOSSY COUNTING for 58terms.txt at Sat Mar 24 23:00:08 +0800 2012
+Succesful LOSSY COUNTING for 58terms.txt at Sat Mar 24 23:00:19 +0800 2012
+Begin PARSING TWEETS for 0stream.json at Sat Mar 24 23:01:06 +0800 2012
+  1482 total tweets
+  8908 total terms
+  337964 total substrings
+Succesful PARSING TWEETS for 0stream.json at Sat Mar 24 23:01:07 +0800 2012
+Begin LOSSY COUNTING for 59terms.txt at Sat Mar 24 23:01:07 +0800 2012
+Succesful LOSSY COUNTING for 59terms.txt at Sat Mar 24 23:01:17 +0800 2012
+Begin PARSING TWEETS for 1stream.json at Sat Mar 24 23:02:06 +0800 2012
+  860 total tweets
+  3579 total terms
+  141180 total substrings
+Succesful PARSING TWEETS for 1stream.json at Sat Mar 24 23:02:07 +0800 2012
+Begin LOSSY COUNTING for 0terms.txt at Sat Mar 24 23:02:07 +0800 2012
+Succesful LOSSY COUNTING for 0terms.txt at Sat Mar 24 23:02:25 +0800 2012
+Begin PARSING TWEETS for 2stream.json at Sat Mar 24 23:03:05 +0800 2012
+  964 total tweets
+  3829 total terms
+  139733 total substrings
+Succesful PARSING TWEETS for 2stream.json at Sat Mar 24 23:03:06 +0800 2012
+Begin LOSSY COUNTING for 1terms.txt at Sat Mar 24 23:03:06 +0800 2012
+Succesful LOSSY COUNTING for 1terms.txt at Sat Mar 24 23:03:11 +0800 2012
+Begin PARSING TWEETS for 3stream.json at Sat Mar 24 23:04:05 +0800 2012
+  1175 total tweets
+  4359 total terms
+  174293 total substrings
+Succesful PARSING TWEETS for 3stream.json at Sat Mar 24 23:04:06 +0800 2012
+Begin LOSSY COUNTING for 2terms.txt at Sat Mar 24 23:04:05 +0800 2012
+Succesful LOSSY COUNTING for 2terms.txt at Sat Mar 24 23:04:15 +0800 2012
+Begin PARSING TWEETS for 4stream.json at Sat Mar 24 23:05:06 +0800 2012
+  728 total tweets
+  1538 total terms
+  56714 total substrings
+Succesful PARSING TWEETS for 4stream.json at Sat Mar 24 23:05:08 +0800 2012
+Begin LOSSY COUNTING for 3terms.txt at Sat Mar 24 23:05:07 +0800 2012
+Succesful LOSSY COUNTING for 3terms.txt at Sat Mar 24 23:05:12 +0800 2012
+Begin PARSING TWEETS for 5stream.json at Sat Mar 24 23:06:06 +0800 2012
+  1161 total tweets
+  6379 total terms
+  248677 total substrings
+Succesful PARSING TWEETS for 5stream.json at Sat Mar 24 23:06:08 +0800 2012
+Begin LOSSY COUNTING for 4terms.txt at Sat Mar 24 23:06:07 +0800 2012
+Succesful LOSSY COUNTING for 4terms.txt at Sat Mar 24 23:06:11 +0800 2012
+Begin PARSING TWEETS for 6stream.json at Sat Mar 24 23:07:04 +0800 2012
+  1395 total tweets
+  5194 total terms
+  194069 total substrings
+Succesful PARSING TWEETS for 6stream.json at Sat Mar 24 23:07:05 +0800 2012
+Begin LOSSY COUNTING for 5terms.txt at Sat Mar 24 23:07:06 +0800 2012
+Succesful LOSSY COUNTING for 5terms.txt at Sat Mar 24 23:07:21 +0800 2012
+Begin PARSING TWEETS for 7stream.json at Sat Mar 24 23:08:03 +0800 2012
+  1599 total tweets
+  6493 total terms
+  256305 total substrings
+Succesful PARSING TWEETS for 7stream.json at Sat Mar 24 23:08:04 +0800 2012
+Begin LOSSY COUNTING for 6terms.txt at Sat Mar 24 23:08:06 +0800 2012
+Succesful LOSSY COUNTING for 6terms.txt at Sat Mar 24 23:08:15 +0800 2012
+Begin PARSING TWEETS for 8stream.json at Sat Mar 24 23:09:05 +0800 2012
+  1643 total tweets
+  6062 total terms
+  240234 total substrings
+Succesful PARSING TWEETS for 8stream.json at Sat Mar 24 23:09:06 +0800 2012
+Begin LOSSY COUNTING for 7terms.txt at Sat Mar 24 23:09:06 +0800 2012
+Succesful LOSSY COUNTING for 7terms.txt at Sat Mar 24 23:09:17 +0800 2012
+Begin PARSING TWEETS for 9stream.json at Sat Mar 24 23:10:06 +0800 2012
+  1894 total tweets
+  7152 total terms
+  267598 total substrings
+Succesful PARSING TWEETS for 9stream.json at Sat Mar 24 23:10:07 +0800 2012
+Begin LOSSY COUNTING for 8terms.txt at Sat Mar 24 23:10:07 +0800 2012
+Succesful LOSSY COUNTING for 8terms.txt at Sat Mar 24 23:10:20 +0800 2012
+Begin PARSING TWEETS for 10stream.json at Sat Mar 24 23:11:07 +0800 2012
+  1440 total tweets
+  6288 total terms
+  245852 total substrings
+Succesful PARSING TWEETS for 10stream.json at Sat Mar 24 23:11:08 +0800 2012
+Begin LOSSY COUNTING for 9terms.txt at Sat Mar 24 23:11:08 +0800 2012
+Succesful LOSSY COUNTING for 9terms.txt at Sat Mar 24 23:11:21 +0800 2012
+Begin PARSING TWEETS for 11stream.json at Sat Mar 24 23:12:05 +0800 2012
+  1948 total tweets
+  7190 total terms
+  282199 total substrings
+Succesful PARSING TWEETS for 11stream.json at Sat Mar 24 23:12:06 +0800 2012
+Begin LOSSY COUNTING for 10terms.txt at Sat Mar 24 23:12:06 +0800 2012
+Succesful LOSSY COUNTING for 10terms.txt at Sat Mar 24 23:12:14 +0800 2012
+Begin PARSING TWEETS for 12stream.json at Sat Mar 24 23:13:05 +0800 2012
+  1917 total tweets
+  6339 total terms
+  229102 total substrings
+Succesful PARSING TWEETS for 12stream.json at Sat Mar 24 23:13:06 +0800 2012
+Begin LOSSY COUNTING for 11terms.txt at Sat Mar 24 23:13:05 +0800 2012
+Succesful LOSSY COUNTING for 11terms.txt at Sat Mar 24 23:13:22 +0800 2012
+Begin PARSING TWEETS for 13stream.json at Sat Mar 24 23:14:05 +0800 2012
+  2014 total tweets
+  6527 total terms
+  238065 total substrings
+Succesful PARSING TWEETS for 13stream.json at Sat Mar 24 23:14:06 +0800 2012
+Begin LOSSY COUNTING for 12terms.txt at Sat Mar 24 23:14:06 +0800 2012
+Succesful LOSSY COUNTING for 12terms.txt at Sat Mar 24 23:14:17 +0800 2012
+Begin PARSING TWEETS for 14stream.json at Sat Mar 24 23:15:06 +0800 2012
+  1864 total tweets
+  5720 total terms
+  220268 total substrings
+Succesful PARSING TWEETS for 14stream.json at Sat Mar 24 23:15:07 +0800 2012
+Begin LOSSY COUNTING for 13terms.txt at Sat Mar 24 23:15:07 +0800 2012
+Succesful LOSSY COUNTING for 13terms.txt at Sat Mar 24 23:15:20 +0800 2012
+Begin PARSING TWEETS for 15stream.json at Sat Mar 24 23:16:06 +0800 2012
+  1128 total tweets
+  5739 total terms
+  214509 total substrings
+Succesful PARSING TWEETS for 15stream.json at Sat Mar 24 23:16:08 +0800 2012
+Begin LOSSY COUNTING for 14terms.txt at Sat Mar 24 23:16:07 +0800 2012
+Succesful LOSSY COUNTING for 14terms.txt at Sat Mar 24 23:16:17 +0800 2012
+Begin PARSING TWEETS for 16stream.json at Sat Mar 24 23:17:05 +0800 2012
+  1649 total tweets
+  5635 total terms
+  216942 total substrings
+Succesful PARSING TWEETS for 16stream.json at Sat Mar 24 23:17:06 +0800 2012
+Begin LOSSY COUNTING for 15terms.txt at Sat Mar 24 23:17:06 +0800 2012
+Succesful LOSSY COUNTING for 15terms.txt at Sat Mar 24 23:17:15 +0800 2012
+Begin PARSING TWEETS for 17stream.json at Sat Mar 24 23:18:05 +0800 2012
+Begin LOSSY COUNTING for 16terms.txt at Sat Mar 24 23:18:05 +0800 2012
+Succesful LOSSY COUNTING for 16terms.txt at Sat Mar 24 23:18:14 +0800 2012
+Begin PARSING TWEETS for 18stream.json at Sat Mar 24 23:19:04 +0800 2012
+Begin PARSING TWEETS for 19stream.json at Sat Mar 24 23:20:06 +0800 2012
+Begin PARSING TWEETS for 20stream.json at Sat Mar 24 23:21:06 +0800 2012
+Begin PARSING TWEETS for 21stream.json at Sat Mar 24 23:22:05 +0800 2012
+Begin PARSING TWEETS for 22stream.json at Sat Mar 24 23:23:04 +0800 2012
+Begin PARSING TWEETS for 23stream.json at Sat Mar 24 23:24:04 +0800 2012
+Begin PARSING TWEETS for 24stream.json at Sat Mar 24 23:25:06 +0800 2012
+Begin PARSING TWEETS for 25stream.json at Sat Mar 24 23:26:06 +0800 2012
+Begin PARSING TWEETS for 26stream.json at Sat Mar 24 23:27:05 +0800 2012
+Begin PARSING TWEETS for 27stream.json at Sat Mar 24 23:28:05 +0800 2012
+Begin PARSING TWEETS for 28stream.json at Sat Mar 24 23:29:04 +0800 2012
+Begin PARSING TWEETS for 29stream.json at Sat Mar 24 23:30:06 +0800 2012
+Begin PARSING TWEETS for 30stream.json at Sat Mar 24 23:31:06 +0800 2012
+Begin PARSING TWEETS for 31stream.json at Sat Mar 24 23:32:05 +0800 2012
